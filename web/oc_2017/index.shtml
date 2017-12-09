@@ -1,0 +1,1981 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Open Campus 2017 | 高知工科大学 情報学群</title>
+	<meta name="keywords" content="高知工科大学,情報学群,オープンキャンパス,KUT,入試,情報">
+	<meta name="description" content="高知工科大学情報学群の2017年度オープンキャンパスのご案内。研究室公開や体験授業などのオープンキャンパスでしか体験することのできないイベントを紹介しています。">
+	<link rel="stylesheet" href="css/base.css" media="all" title="header" charset="utf-8">
+	<link rel="stylesheet" href="css/oc_2017.css" media="all" title="header" charset="utf-8">
+	<link rel="stylesheet" href="css/bookblock.css" media="all" title="header" charset="utf-8">
+	<link rel="icon" href="img/favicon2.png">
+		
+	<script type="text/javascript">
+		window.onload = function(){
+			headSerect(0);
+		}
+	</script>
+</head>
+
+<body>
+	<!--#include file="header.html"-->
+
+	<div id="baseContents">
+		<div class="pankuzu">
+			<a href="../index.shtml">HOME</a> > オープンキャンパス2017
+		</div> <!-- pankuzu -->
+
+		<!-- ocのタイトル画像 -->
+		<img src="img/oc2017Title.png" alt="2017年度高知工科大学情報学群オープンキャンパス7月29日30日" class="mainImage" />
+
+		<!-- 今年度のオープンキャンパスの記事へのリンク -->
+			<div class="oc2017_article_box">
+		<a href="../news/topic_temp_176.shtml" class="oc2017_article_link">
+					<p>たくさんのご来場ありがとうございました。</br >オープンキャンパス2017の記事はこちら。</p>
+		</a>
+			</div>
+		
+		<!-- 昨年度へのリンク -->
+		<div class="oc2016_link">
+			<a href="../oc_2016/oc_2016.shtml">
+				<img src="img/blackboard.png" alt="2016年度オープンキャンパスへのリンク">
+			</a>
+		</div>
+
+		<div id="byebyeIE"></div>
+
+		<!-- メニュー付箋部分 -->
+		<div class="menu">
+			<input type="radio" name="menuBtn" id="lab">
+			<label class="outLine labMenu" for="lab">
+				<div class="menuList">
+					<img src="img/labIcon3.png" alt="研究室公開" />
+					<h1>研究室公開</h1>
+				</div><!-- menuList -->
+			</label><!-- outLine -->
+
+			<input type="radio" name="menuBtn" id="study">
+			<label class="outLine studyMenu" for="study">
+				<div class="menuList">
+					<img src="img/studyIcon.png" alt="体験授業" />
+					<h1>体験授業</h1>
+				</div><!-- menuList -->
+			</label><!-- outLine -->
+
+			<input type="radio" name="menuBtn" id="map">
+			<label class="outLine mapMenu" for="map">
+				<div class="menuList">
+					<img src="img/floormapIcon.png" alt="フロアマップ" />
+					<h1>フロアマップ</h1>
+				</div><!-- menuList -->
+			</label><!-- outLine -->
+		</div><!-- menu -->
+
+		<!-- メインコンテンツ(bb-bookblock->jsで必要な要素) -->
+		<div id="bb-bookblock" class="bb-bookblock"><!--footerの前まで-->
+			<div class="contents bb-item">
+				<div class="labLabel"></div>
+				<div class="ocMainContents labContents">
+					<h1><span>研究室公開</span></h1>
+					<p>情報学群では研究室を公開しており、<br />各研究室がそれぞれ特色を生かす展示や発表をしています。<br />先輩の成果物を見ることができる良い機会なので、<br />ぜひ一度研究室に足を運んでみてください。<br /><span class="attention">※各研究室の詳細についてはフロアマップを参照してください。</span></p>
+				</div><!-- labContents -->
+		
+				<div class="detail labDetail">
+					<h4>研究室公開一覧</h4>
+					<div class="table">
+						<div class="row">
+							<div class="th">教員</div><div class="th">プログラム</div><div class="th">場所</div>
+						</div>
+						<div class="row">
+							<div>鵜川始陽</div><div class="program">ドローンをプログラムしよう</div><div>A105</div>
+						</div>
+						<div class="row">
+							<div>中原潔<br />門田宏</div><div class="program">MRIで人の脳を覗いてみよう<p class="time"><img src="img/clock.png" padding="1px">10:00-, 11:00-, 12:00-, 13:00-, 14:00-</p></div><div><br />A155</div>
+						</div>
+						<div class="row">
+							<div>門田宏</div><div class="program">体験、運動の奇妙な世界：的にボールが当たらない!?</div><div>A210</div>
+						</div>
+						<div class="row">
+							<div>植田和憲</div><div class="program">無線ネットワークで三段跳びすればどこまでいける？</div><div>A303</div>
+						</div>
+						<div class="row">
+							<div>清水明宏</div><div class="program">あなたの暮らしを守るセキュリティ技術</div><div>A305</div>
+						</div>
+						<div class="row">
+							<div>繁桝博昭</div><div class="program">3D知覚とバーチャルリアリティ体験</div><div>A306</div>
+						</div>
+						<div class="row">
+							<div>妻鳥貴彦</div><div class="program">ICTでこれからの授業が変わる</div><div>A307</div>
+						</div>
+						<div class="row">
+							<div>篠森敬三</div><div class="program">視覚の不思議 〜体験型エイムズの部屋 など〜</div><div>A308</div>
+						</div>
+						<div class="row">
+							<div>吉田真一</div><div class="program">連想するコンピュータ 〜類似画像検索〜</div><div>A309</div>
+						</div>
+						<div class="row">
+							<div>松崎公紀</div><div class="program">ゲームプログラミングの研究課題 〜コンピュータ大富豪〜</div><div>A310</div>
+						</div>
+						<div class="row">
+							<div>岩田誠</div><div class="program">超高速省エネコンピュータチップの新技術</div><div>A312</div>
+						</div>
+						<div class="row">
+							<div>濵村昌則</div><div class="program">筋トレTeleコミュニケーション</div><div>A314</div>
+						</div>
+						<div class="row">
+							<div>任向実</div><div class="program">ネクストジェネレーション 〜インタフェース界に現れた風雲児〜</div><div>A315</div>
+						</div>
+						<div class="row">
+							<div>高田喜朗</div><div class="program">さわってみようプログラミング</div><div>A355</div>
+						</div>
+						<div class="row">
+							<div>福本昌弘</div><div class="program">ICTで災害にそなえよう</div><div>A357</div>
+						</div>
+						<div class="row">
+							<div>敷田幹文</div><div class="program">人にやさしい未来のコミュニケーション支援</div><div>A358</div>
+						</div>
+						<div class="row">
+							<div>横山和俊</div><div class="program">雲の中のコンピュータ</div><div>A359</div>
+						</div>
+						<div class="row">
+							<div>栗原徹</div><div class="program">画像処理技術が支えるメディアアート</div><div>A360</div>
+						</div>
+					</div><!-- table -->
+					<div class="labImgBoxes">
+						<div class="labImgBack1"></div>
+						<div class="labImgBox1 imgBox smallImgBox"><img src="img/ocSub1.jpg"></div>
+						<div class="labImgBox2 imgBox bigImgBoxContainText"><img src="img/labMain.jpg">Open Campus 2017!</div>
+						<div class="labImgBox3 imgBox bigImgBox"><img src="img/labSub1.jpg"></div>
+						<div class="labMaskingTape1 maskingTape"></div>
+						<div class="labMaskingTape2 maskingTape"></div>
+						<div class="labMaskingTape3 maskingTape"></div>
+						<img class="BIdeskwork" src="img/backImgDeskwork.png">
+					</div>
+				</div><!-- labDetail -->
+			</div><!-- contents -->
+		
+			<div class="contents bb-item">
+				<div class="studyLabel"></div>
+				<div class="ocMainContents studyContents">
+					<h1><span>体験授業</span></h1>
+					<p>情報学群の先生方による特別講義を実施します。<br />また、情報学群の説明会も開催します。<br />この機会にぜひご聴講ください。<br /><br />
+						下記の時間にA棟1階のA106教室で実施します。<br />席に限りがございます。お早めにお越しください。</p>
+				</div><!-- studyContents -->
+		
+				<div class="detail studyDetail">
+					<h4>体験授業一覧</h4>
+					<div class="table">
+						<div class="row">
+							<div class="th"></div>
+							<div class="th">29日</div>
+							<div class="th">30日</div>
+						</div>
+						<div class="row">
+							<div class="timeTable start11">11:30<br />|<br />12:00</div>
+							<div class="study29th">
+								<div class="studyProgram"><span>情報学群説明会<br />（情報通信技術者を目指す諸君へ）</span></div>
+								<div class="studyTeacher"><span></span></div>
+							</div>
+							<div class="study30th">
+								<div class="studyProgram"><span>情報学群説明会<br />（情報通信技術者を目指す諸君へ）</span></div>
+								<div class="studyTeacher"><span></span></div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="timeTable start13">13:10<br />|<br />13:50</div>
+							<div class="study29th">
+								<div class="studyProgram"><span>身体と脳のコミュニケーション</span></div>
+								<div class="studyTeacher"><span>門田宏 准教授</span></div>
+							</div>
+							<div class="study30th">
+								<div class="studyProgram"><span>情報通信の未来<br />~人にやさしいコミュニケーション~</span></div>
+								<div class="studyTeacher"><span>敷田幹文 教授</span></div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="timeTable start14">14:00<br />|<br />14:40</div>
+							<div class="study29th">
+								<div class="studyProgram"><span>コンピュータを使わないプログラム</span></div>
+								<div class="studyTeacher"><span>鵜川始陽 准教授</span></div>
+							</div>
+							<div class="study30th">
+								<div class="studyProgram"><span>情報を伝えるメディアのはたらき</span></div>
+								<div class="studyTeacher"><span>福本昌弘 教授</span></div>
+							</div>
+						</div>
+					</div><!-- table -->
+					<div class="studyImgBoxes">
+						<div class="studyImgBox1 imgBox bigImgBoxContainText2"><p>Kochi University of Technology</p><img src="img/studyMain.jpg"><p>School of Information</p></div>
+						<div class="studyImgBox2 imgBox bigImgBox"><img src="img/ocMain3.jpg"></div>
+						<div class="studyImgBox3 imgBox bigImgBoxVertical"><img src="img/ocMain5.jpg"></div>
+						<div class="studyImgBox4 imgBox smallImgBox"><img src="img/studySub1.jpg"></div>
+						<div class="studyImgBox5 imgBox smallImgBox"><img src="img/ocSub3.jpg"></div>
+						<div class="studyMaskingTape1_1 maskingTape"></div>
+						<div class="studyMaskingTape1_2 maskingTape"></div>
+						<div class="studyMaskingTape2 maskingTape"></div>
+						<div class="studyMaskingTape3 maskingTape"></div>
+						<div class="studyMaskingTape4 maskingTape"></div>
+						<div class="studyMaskingTape5 maskingTape"></div>
+					</div>
+				</div><!-- studyDetail -->
+			</div><!-- contents -->
+
+			<div class="contents bb-item">
+				<div class="mapLabel"></div>
+				<div class="ocMainContents mapContents">
+					<h1><span>フロアマップ</span></h1>
+					<p>情報学群のオープンキャンパスが行われる<br />高知工科大学教育研究棟Aのフロアマップを掲載しています。<br /><span class="attention">※クリックすると詳細が表示されます。</span></p>
+					<div class="floorLink">
+						<div class="linkContents">
+							<a href="#A-1F"><img src="img/Triangle_accessMap.png">A棟1F</a>
+						</div>
+						<div class="linkContents">
+							<a href="#A-2F"><img src="img/Triangle_accessMap.png">A棟2F</a><br />
+						</div>
+						<div class="linkContents">
+							<a href="#A-3F"><img src="img/Triangle_accessMap.png">A棟3F</a>
+						</div>
+					</div><!-- floorLink -->
+				</div><!-- mapContents -->
+
+				<div class="detail mapDetail">
+					<input type="radio" name="listButton" id="map105">
+					<input type="radio" name="listButton" id="map106">
+					<input type="radio" name="listButton" id="map107">
+					<input type="radio" name="listButton" id="map155">
+					<input type="radio" name="listButton" id="map210">
+					<input type="radio" name="listButton" id="map303">
+					<input type="radio" name="listButton" id="map305">
+					<input type="radio" name="listButton" id="map306">
+					<input type="radio" name="listButton" id="map307">
+					<input type="radio" name="listButton" id="map308">
+					<input type="radio" name="listButton" id="map309">
+					<input type="radio" name="listButton" id="map310">
+					<input type="radio" name="listButton" id="map312">
+					<input type="radio" name="listButton" id="map314">
+					<input type="radio" name="listButton" id="map315">
+					<input type="radio" name="listButton" id="map355">
+					<input type="radio" name="listButton" id="map357">
+					<input type="radio" name="listButton" id="map358">
+					<input type="radio" name="listButton" id="map359">
+					<input type="radio" name="listButton" id="map360">
+
+					<input type="checkbox" name="listButton" id="hover105">
+					<input type="checkbox" name="listButton" id="hover106">
+					<input type="checkbox" name="listButton" id="hover107">
+					<input type="checkbox" name="listButton" id="hover155">
+					<input type="checkbox" name="listButton" id="hover210">
+					<input type="checkbox" name="listButton" id="hover303">
+					<input type="checkbox" name="listButton" id="hover305">
+					<input type="checkbox" name="listButton" id="hover306">
+					<input type="checkbox" name="listButton" id="hover307">
+					<input type="checkbox" name="listButton" id="hover308">
+					<input type="checkbox" name="listButton" id="hover309">
+					<input type="checkbox" name="listButton" id="hover310">
+					<input type="checkbox" name="listButton" id="hover312">
+					<input type="checkbox" name="listButton" id="hover314">
+					<input type="checkbox" name="listButton" id="hover315">
+					<input type="checkbox" name="listButton" id="hover355">
+					<input type="checkbox" name="listButton" id="hover357">
+					<input type="checkbox" name="listButton" id="hover358">
+					<input type="checkbox" name="listButton" id="hover359">
+					<input type="checkbox" name="listButton" id="hover360">
+
+					<!-- 1FMap -->
+					<div id="A-1F">
+						<div class="map">
+							<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+							<svg width="800px" height="404px" viewBox="0 0 800 404" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+								<!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+								<title>1FMap</title>
+								<desc>Created with Sketch.</desc>
+								<defs>
+									<rect x="3.68408196" y="1.06328763" width="12.3416746" height="17.6369852" id="rect-1"></rect>
+									<rect x="3.68408196" y="1.10461285" width="12.3416746" height="17.6369852" id="rect-2"></rect>
+									<rect x="3.85347708" y="1.14143328" width="12.3416746" height="17.6369852" id="rect-3"></rect>
+									<rect x="3.85347708" y="1.14143328" width="12.3416746" height="17.6369852" id="rect-4"></rect>
+									<rect id="path-5" x="1.42108547e-14" y="0" width="18.4204098" height="17.6738056"></rect>
+									<mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18.4204098" height="17.6738056" fill="white">
+										<use xlink:href="#path-5"></use>
+									</mask>
+									<rect x="5.89453113" y="1.47281713" width="6.63134752" height="14.7281713" id="rect-7"></rect>
+									<rect id="path-8" x="0" y="0" width="18.1028165" height="17.6738056"></rect>
+									<mask id="mask-9" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18.1028165" height="17.6738056" fill="white">
+										<use xlink:href="#path-8"></use>
+									</mask>
+									<rect x="6.66945872" y="1.47281713" width="5.08149235" height="14.7281713" id="rect-10"></rect>
+									<rect id="path-11" x="0" y="0" width="18.4204098" height="17.6738056"></rect>
+									<mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18.4204098" height="17.6738056" fill="white">
+										<use xlink:href="#path-11"></use>
+									</mask>
+									<rect x="5.89453113" y="1.47281713" width="6.63134752" height="14.7281713" id="rect-13"></rect>
+									<rect id="path-14" x="0" y="0" width="18.1028165" height="17.6738056"></rect>
+									<mask id="mask-15" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18.1028165" height="17.6738056" fill="white">
+										<use xlink:href="#path-14"></use>
+									</mask>
+									<rect x="6.66945872" y="1.47281713" width="5.08149235" height="14.7281713" id="rect-16"></rect>
+									<rect id="path-17" x="0" y="0" width="9.79965801" height="13.2553542"></rect>
+									<mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.79965801" height="13.2553542" fill="white">
+										<use xlink:href="#path-17"></use>
+									</mask>
+									<rect x="1.95256344" y="2.2092257" width="5.89453113" height="8.8369028" id="rect-19"></rect>
+									<rect id="path-20" x="0" y="0" width="18.1028165" height="17.6738056"></rect>
+									<mask id="mask-21" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18.1028165" height="17.6738056" fill="white">
+										<use xlink:href="#path-20"></use>
+									</mask>
+									<rect x="6.66945872" y="1.47281713" width="5.08149235" height="14.7281713" id="rect-22"></rect>
+									<rect id="path-23" x="0" y="0" width="18.4204098" height="17.6738056"></rect>
+									<mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18.4204098" height="17.6738056" fill="white">
+										<use xlink:href="#path-23"></use>
+									</mask>
+									<rect x="4.42089835" y="2.0545799" width="9.99123027" height="13.5646458" id="rect-25"></rect>
+								</defs>
+
+								<g class="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+									<g id="1FMap">
+										<polygon class="外枠" stroke="#979797" stroke-width="2" fill="#E9E1D4" points="99.0142151 126.393185 175.748987 126.393185 175.748987 141.480137 360.989921 141.480137 397.856194 141.480137 571.757501 141.480138 571.757501 126.389999 653.418573 126.389999 653.418573 141.480138 751.961305 141.480137 751.961298 166.821159 765.33116 166.821159 765.331145 185.048839 773.813003 185.048839 773.813043 204.199997 769.162042 204.199997 769.162042 252.657543 771.983698 252.657543 771.983698 269.658756 784.807243 269.658758 784.807243 287.045017 751.961305 287.045017 751.961313 330.506148 633.090082 330.506148 633.090089 313.200012 594.403226 313.200012 594.403219 330.506148 398.390436 330.506153 398.390436 321.885013 360.118982 321.885013 360.118982 330.506153 154.822662 330.506157 154.822656 313.195652 122.798902 313.195652 122.798908 330.506157 54.4985352 330.506148 54.4985352 320.618704 41.9501369 320.618704 41.9501369 284.204212 15.0983826 284.20421 15.0983826 267.017785 32.7455517 267.017788 32.7455517 213.32484 19.5751727 213.324843 19.5751727 191.629371 32.7455521 191.629371 32.7455521 178.309917 43.4210096 178.309917 43.4210096 141.480137 99.0142151 141.480137"></polygon>
+										<g class="Bottom" transform="translate(359.642193, 315.500824)" stroke-linecap="square" stroke="#979797">
+											<g class="Group" transform="translate(0.104980, -0.000000)">
+												<path d="M0.415262371,6.18583196 L14.2971124,6.18583196" class="Line"></path>
+												<path d="M24.3703656,6.18583196 L37.7528262,6.18583193" class="Line-27"></path>
+												<path d="M19.1541876,5.89126853 C19.1541876,10.1771257 14.5759078,11.1994825 14.5759078,11.1994825 L14.5759078,0.525321974 C14.5759078,0.525321974 19.1541876,1.60541135 19.1541876,5.89126853 Z" class="Line"></path>
+												<path d="M19.5942249,5.89126853 C19.5942249,10.1771257 24.1725047,11.1994825 24.1725047,11.1994825 L24.1725047,0.525321974 C24.1725047,0.525321974 19.5942249,1.60541135 19.5942249,5.89126853 Z" class="Line-26"></path>
+											</g>
+										</g><!-- Bottom -->
+										<g class="EV-LL" sketch:type="MSLayerGroup" transform="translate(108.602553, 207.248764)">
+											<g class="Group-4" stroke-linecap="square" stroke="#979797">
+												<polyline class="Line" points="19.5256344 13.6235585 19.5256344 20.1695089 0.557451019 20.1695094 0.559808414 3.67305533 0.557451019 0.567883924"></polyline>
+												<polyline class="Line" points="0.556223732 0.550485465 19.492405 0.550485465 19.492405 3.41238242"></polyline>
+											</g>
+											<path d="M19.5256344,13.6235585 L19.5256344,18.7784185" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<path d="M0.556223732,0.550485465 L19.492405,0.550485465 L19.492405,3.41238242" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<rect class="Rectangle-26" fill="#888888" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="1.1" y="1" width="17.9" height="19"></rect>
+											<image x="-1.5px" y="-2px" width="23px" height="23px" xlink:href="img/elevator.png"></image>
+										</g><!-- EV-LL -->
+										<g class="EV-RL" sketch:type="MSLayerGroup" transform="translate(584.585942, 207.248764)">
+											<g class="Group-8" stroke-linecap="square" stroke="#979797">
+												<polyline class="Line" points="19.5256344 13.6235585 19.5256344 20.1712338 0.56408289 20.1712336 0.56408289 0.587022202"></polyline>
+												<polyline class="Line" points="0.556223732 0.550485465 19.492405 0.550485465 19.492405 3.41238242"></polyline>
+											</g>
+											<path d="M19.5256344,13.6235585 L19.5256344,18.7784185" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<path d="M0.556223732,0.550485465 L19.492405,0.550485465 L19.492405,3.41238242" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<rect class="Rectangle-26" fill="#888888" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="1.1" y="1" width="17.9" height="19"></rect>
+											<image x="-1.5px" y="-2px" width="23px" height="23px" xlink:href="img/elevator.png"></image>
+										</g><!--EV-RL-->
+										<g class="EV-LR" sketch:type="MSLayerGroup" transform="translate(147.653821, 207.248764)">
+											<g class="Group-3" stroke-linecap="square" stroke="#979797">
+												<polyline class="Line-22" points="0.736816391 13.6235585 0.736816391 20.1712338 19.4961719 20.1712344 19.4961725 0.675464936"></polyline>
+												<polyline class="Line-21" points="0.556223732 0.550485465 19.492405 0.550485465 19.492405 3.41238242"></polyline>
+											</g>
+											<path d="M0.736816391,13.6235585 L0.736816391,18.7784185" class="Line-22" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<path d="M19.492405,0.550485465 L0.556223732,0.550485465 L0.556223732,3.41238242" class="Line-21" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<rect class="Rectangle-26" fill="#888888" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="1.1" y="1" width="17.9" height="19"></rect>
+											<image x="-1.5px" y="-2px" width="23px" height="23px" xlink:href="img/elevator.png"></image>
+										</g><!-- EV-LR -->
+										<g class="EV-RR" sketch:type="MSLayerGroup" transform="translate(620.689945, 207.248764)">
+											<g class="Group-7" stroke-linecap="square" stroke="#979797">
+												<polyline class="Line-22" points="0.736816391 13.6235585 0.736816391 20.1712338 19.4800377 20.1712334 19.4800382 0.583943551"></polyline>
+												<polyline class="Line-21" points="0.556223732 0.550485465 19.492405 0.550485465 19.492405 3.41238242"></polyline>
+											</g>
+											<path d="M0.736816391,13.6235585 L0.736816391,18.7784185" class="Line-22" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<path d="M19.492405,0.550485465 L0.556223732,0.550485465 L0.556223732,3.41238242" class="Line-21" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<rect class="Rectangle-26" fill="#888888" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="1.1" y="1" width="17.9" height="19"></rect>
+											<image x="-1.5px" y="-2px" width="23px" height="23px" xlink:href="img/elevator.png"></image>
+										</g><!-- EV-RR -->
+										<g class="外階段R" transform="translate(579.000000, 133.000000)" stroke-linecap="square" stroke="#979797">
+											<polyline class="Line" points="2.38921438 8.69354609 17.631522 8.69354609 17.631522 17.51383"></polyline>
+											<path d="M0,1 L74.0725365,1" class="Line" stroke-width="0.5"></path>
+												<path d="M65.25,1.5 L65.25,9" class="Line" stroke-width="0.5"></path>
+												<path d="M67.25,1.5 L67.25,9" class="Line" stroke-width="0.5"></path>
+												<path d="M69.25,1.5 L69.25,9" class="Line" stroke-width="0.5"></path>
+												<path d="M71.25,1.5 L71.25,9" class="Line" stroke-width="0.5"></path>
+												<polyline class="Line" points="65.4168051 8.71354386 49.4193843 8.71354386 49.4193843 17.0522346 42.6432418 17.0522346"></polyline>
+											</g><!-- 外階段R -->
+											<g class="toiletL" transform="translate(107.246639, 164.000000)">
+												<g class="Group-2" transform="translate(0.003361, 0.000000)">
+													<use class="Rectangle-26" fill="#ff007f" stroke="#979797" mask="url(#mask-6)" stroke-width="0.4" xlink:href="#path-5"></use>
+													<g class="toilet-F">
+														<image x="-3px" y="-4px" width="25px" height="25px" xlink:href="img/womensToilet.png"></image>
+													</g>
+												</g>
+												<g class="toiletLMan" transform="translate(43.053364, 0.000000)">
+													<use class="Rectangle-26" fill="#007fff" stroke="#979797" mask="url(#mask-9)" stroke-width="0.4" xlink:href="#path-8"></use>
+													<image x="-4px" y="-4px" width="25px" height="25px" xlink:href="img/mensToilet.png"></image>
+												</g>
+											</g><!-- toiletL -->
+											<g class="Bottom" transform="translate(612.500000, 141.899994) scale(1, -1) translate(-612.500000, -141.899994) translate(596.000000, 136.399994)" stroke-linecap="square" stroke="#979797">
+												<g class="Group" transform="translate(0.819177, 0.000000)">
+													<path d="M0.680822492,5.71149923 L11.6927087,5.71149923" class="Line"></path>
+													<path d="M21.667575,5.71149923 L30.6808224,5.71149923" class="Line-27"></path>
+													<path d="M16.5799999,5.41676229 C16.5799999,9.74320672 12,10.7752453 12,10.7752453 L12,0 C12,0 16.5799999,1.09031787 16.5799999,5.41676229 Z" class="Line"></path>
+													<path d="M17,5.41676229 C17,9.74320672 21.5799999,10.7752453 21.5799999,10.7752453 L21.5799999,0 C21.5799999,0 17,1.09031787 17,5.41676229 Z" class="Line-26"></path>
+												</g>
+											</g><!-- Bottom -->
+											<g class="toiletR" transform="translate(582.744145, 141.000000)">
+												<g class="toiletWoman2" transform="translate(0.000000, 23.000000)">
+													<use class="Rectangle-26" fill="#ff007f" stroke="#979797" mask="url(#mask-12)" stroke-width="0.4" xlink:href="#path-11"></use>
+													<g class="toilet-F">
+														<image x="-3px" y="-4px" width="25px" height="25px" xlink:href="img/womensToilet.png"></image>
+													</g>
+												</g>
+												<g class="toiletLMan" transform="translate(41.000000, 23.000000)">
+													<use class="Rectangle-26" fill="#007fff" stroke="#979797" mask="url(#mask-15)" stroke-width="0.4" xlink:href="#path-14"></use>
+													<image x="-4px" y="-4px" width="25px" height="25px" xlink:href="img/mensToilet.png"></image>
+												</g>
+												<polyline class="Rectangle-28" stroke="#979797" points="14.0086217 0.618350983 14.0086217 9.50995731 20.7711816 9.50995731 20.7711806 43.1199951 2.18614723 43.1199951"></polyline>
+												<polyline class="Line-23" stroke="#979797" stroke-linecap="square" points="38.9108845 9.30212402 38.9108845 43.1199951 57.0306335 43.1199951"></polyline>
+											</g><!-- toiletR -->
+											<g class="階段" transform="translate(109.612407, 149.808896)" stroke-linecap="square" stroke="#979797">
+												<polyline class="Line" points="19.1052246 0.368204283 19.1052246 34.3062388 0.63741491 34.3062383"></polyline>
+												<path d="M28.3154295,10.6779242 L28.3154295,33.5065898" class="Line-3"></path>
+												<path d="M28.6838377,16.3850906 L37.5256344,16.3850906" class="Line-12" stroke-width="0.5"></path>
+												<path d="M28.3875934,18.5943163 L37.5256344,18.5943163" class="Line-13" stroke-width="0.5"></path>
+												<path d="M28.6838377,20.803542 L37.5256344,20.803542" class="Line-14" stroke-width="0.5"></path>
+												<path d="M28.6838377,23.0127677 L37.5256344,23.0127677" class="Line-15" stroke-width="0.5"></path>
+												<path d="M28.6838377,25.2219934 L37.5256344,25.2219934" class="Line-16" stroke-width="0.5"></path>
+												<polyline class="Line" points="28.4895993 15.9830411 32.8993392 15.9830411 32.8993392 13.6911038 37.3090789 13.6911038"></polyline>
+												<polyline class="Line-2" points="37.5256344 0.368204283 37.5256344 34.3770679 55.7182442 34.3770696"></polyline>
+											</g><!-- 階段 -->
+											<g class="階段-2" transform="translate(611.269535, 159.660381)" stroke="#979797" stroke-linecap="square">
+												<path d="M1.31542948,0.677924217 L1.31542948,23.5065898" class="Line-3"></path>
+												<path d="M1.68383768,4.17586491 L10.5256344,4.17586491" class="Line-20" stroke-width="0.5"></path>
+												<polyline class="Line-20" points="1.68383768 3.5 5.64920976 3.5 5.64920976 1.71209076 10.0018543 1.71209076"></polyline>
+												<path d="M1.68383768,6.38509061 L10.5256344,6.38509061" class="Line-12" stroke-width="0.5"></path>
+												<path d="M1.68383768,8.59431631 L10.5256344,8.59431631" class="Line-13" stroke-width="0.5"></path>
+												<path d="M1.68383768,10.803542 L10.5256344,10.803542" class="Line-14" stroke-width="0.5"></path>
+												<path d="M1.68383768,13.0127677 L10.5256344,13.0127677" class="Line-15" stroke-width="0.5"></path>
+												<path d="M1.68383768,15.2219934 L10.5256344,15.2219934" class="Line-16" stroke-width="0.5"></path>
+											</g><!-- 階段-2 -->
+											<g class="Bottom" transform="translate(119.000000, 307.000000)" stroke-linecap="square" stroke="#979797">
+												<g class="Group" transform="translate(0.104980, 0.000000)">
+													<path d="M0.415262371,6.18583196 L14.2971124,6.18583196" class="Line"></path>
+													<path d="M24.3703656,6.18583196 L37.7528262,6.18583193" class="Line-27"></path>
+													<path d="M19.1541876,5.89126853 C19.1541876,10.1771257 14.5759078,11.1994825 14.5759078,11.1994825 L14.5759078,0.525321974 C14.5759078,0.525321974 19.1541876,1.60541135 19.1541876,5.89126853 Z" class="Line"></path>
+													<path d="M19.5942249,5.89126853 C19.5942249,10.1771257 24.1725047,11.1994825 24.1725047,11.1994825 L24.1725047,0.525321974 C24.1725047,0.525321974 19.5942249,1.60541135 19.5942249,5.89126853 Z" class="Line-26"></path>
+												</g>
+											</g><!-- Bottom -->
+											<g class="Bottom" transform="translate(594.500000, 307.000000)" stroke-linecap="square" stroke="#979797">
+												<g class="Group" transform="translate(0.104980, -0.000000)">
+													<path d="M0.415262371,6.18583196 L14.2971124,6.18583196" class="Line"></path>
+													<path d="M24.3703656,6.18583196 L37.7528262,6.18583193" class="Line-27"></path>
+													<path d="M19.1541876,5.89126853 C19.1541876,10.1771257 14.5759078,11.1994825 14.5759078,11.1994825 L14.5759078,0.525321974 C14.5759078,0.525321974 19.1541876,1.60541135 19.1541876,5.89126853 Z" class="Line"></path>
+													<path d="M19.5942249,5.89126853 C19.5942249,10.1771257 24.1725047,11.1994825 24.1725047,11.1994825 L24.1725047,0.525321974 C24.1725047,0.525321974 19.5942249,1.60541135 19.5942249,5.89126853 Z" class="Line-26"></path>
+												</g>
+											</g><!-- Bottom -->
+											<g class="Bottom" transform="translate(137.500000, 141.600006) scale(1, -1) translate(-137.500000, -141.600006) translate(121.000000, 136.100006)" stroke-linecap="square" stroke="#979797">
+												<g class="Group" transform="translate(0.819177, 0.000000)">
+													<path d="M0.680822492,5.71149923 L11.6927087,5.71149923" class="Line"></path>
+													<path d="M21.667575,5.71149923 L30.6808224,5.71149923" class="Line-27"></path>
+													<path d="M16.5799999,5.41676229 C16.5799999,9.74320672 12,10.7752453 12,10.7752453 L12,0 C12,0 16.5799999,1.09031787 16.5799999,5.41676229 Z" class="Line"></path>
+													<path d="M17,5.41676229 C17,9.74320672 21.5799999,10.7752453 21.5799999,10.7752453 L21.5799999,0 C21.5799999,0 17,1.09031787 17,5.41676229 Z" class="Line-26"></path>
+												</g>
+											</g><!-- Bottom -->
+											<g class="中央下階段" transform="translate(359.856942, 268.161450)" stroke="#979797" stroke-linecap="square">
+												<path d="M0.368408196,40.1593904 L9.94702128,40.1593904" class="Line-28" stroke-width="0.5"></path>
+												<path d="M0.368408196,37.9501647 L9.94702128,37.9501647" class="Line" stroke-width="0.5"></path>
+												<path d="M0.368408196,35.740939 L9.94702128,35.740939" class="Line-29" stroke-width="0.5"></path>
+												<path d="M0.368408196,33.5317133 L9.94702128,33.5317133" class="Line-30" stroke-width="0.5"></path>
+												<path d="M0.368408196,31.3224876 L9.94702128,31.3224876" class="Line-31" stroke-width="0.5"></path>
+												<path d="M0.368408196,29.1132619 L9.94702128,29.1132619" class="Line-32" stroke-width="0.5"></path>
+												<path d="M0.368408196,26.9040362 L9.94702128,26.9040362" class="Line-33" stroke-width="0.5"></path>
+												<path d="M0.368408196,24.6948105 L9.94702128,24.6948105" class="Line-34" stroke-width="0.5"></path>
+												<path d="M0.368408196,22.4855848 L9.94702128,22.4855848" class="Line-35" stroke-width="0.5"></path>
+												<path d="M0.368408196,20.2763591 L9.94702128,20.2763591" class="Line-36" stroke-width="0.5"></path>
+												<path d="M0.368408196,18.0671334 L9.94702128,18.0671334" class="Line-37" stroke-width="0.5"></path>
+												<path d="M0.368408196,15.8579077 L9.94702128,15.8579077" class="Line-38" stroke-width="0.5"></path>
+												<path d="M16.5043381,0.922757407 C16.5043381,0.922757407 25.8631677,8.88659202 25.8631677,19.085704 C25.8631677,37.0902979 10.2422521,40.0218672 10.2422521,40.0218672 L10.2422521,13.177815 L16.5043381,0.922757407 Z" class="Line" stroke-width="2"></path>
+											</g>
+											<g class="施設R" transform="translate(24.000000, 191.000000)" stroke="#979797" stroke-linecap="square">
+												<path d="M727.750854,12.7 L745.00116,12.7" class="Line"></path>
+												<path d="M8.59959995,1.1000061 L19.6954895,1.1000061" class="Line"></path>
+												<path d="M0,21.9 L11.0958895,21.9" class="Line"></path>
+											</g>
+											<g class="階段LL" transform="translate(20.184586, 266.014827)" stroke="#979797" stroke-linecap="square">
+												<path d="M1.22400979,9.35172982 L1.22400979,17.8204283" class="Line-44" stroke-width="0.5"></path>
+												<path d="M2.69763888,9.35172982 L2.69763888,17.8204283" class="Line-45" stroke-width="0.5"></path>
+												<path d="M2.69763888,1.25123558 L2.69763888,9.7199341" class="Line-57" stroke-width="0.5"></path>
+												<path d="M4.17127167,1.25123558 L4.17127167,9.7199341" class="Line-58" stroke-width="0.5"></path>
+												<path d="M5.64490445,1.25123558 L5.64490445,9.7199341" class="Line-59" stroke-width="0.5"></path>
+												<path d="M7.11853723,1.25123558 L7.11853723,9.7199341" class="Line-60" stroke-width="0.5"></path>
+												<path d="M8.59217001,1.25123558 L8.59217001,9.7199341" class="Line-61" stroke-width="0.5"></path>
+												<path d="M10.0658028,1.25123558 L10.0649146,9.7199341" class="Line-62" stroke-width="0.5"></path>
+												<path d="M11.5394356,1.25123558 L11.5385474,9.7199341" class="Line-63" stroke-width="0.5"></path>
+												<path d="M13.0130684,1.25123558 L13.0121802,9.7199341" class="Line-64" stroke-width="0.5"></path>
+												<path d="M14.485813,1.97815351 L14.485813,9.7199341" class="Line-65" stroke-width="0.5"></path>
+												<path d="M15.9594458,1.98383204 L15.9594457,9.7199341" class="Line-66" stroke-width="0.5"></path>
+												<path d="M17.4330785,1.96055017 L17.4330785,9.7199341" class="Line-67" stroke-width="0.5"></path>
+												<path d="M4.17127167,9.35172982 L4.17127167,17.8204283" class="Line-47" stroke-width="0.5"></path>
+												<path d="M5.64490445,9.35172982 L5.64490445,17.8204283" class="Line-48" stroke-width="0.5"></path>
+												<path d="M7.11853723,9.35172982 L7.11853723,17.8204283" class="Line-49" stroke-width="0.5"></path>
+												<path d="M8.59217001,9.35172982 L8.59217001,17.8204283" class="Line-50" stroke-width="0.5"></path>
+												<path d="M10.0658028,9.35172982 L10.0658028,17.8204283" class="Line-51" stroke-width="0.5"></path>
+												<path d="M11.5394356,9.35172982 L11.5394356,17.8204283" class="Line-52" stroke-width="0.5"></path>
+												<path d="M10.0658028,9.35172982 L10.0658028,17.8204283" class="Line-53" stroke-width="0.5"></path>
+												<path d="M13.0121802,9.35172982 L13.0130684,17.8204283" class="Line-54" stroke-width="0.5"></path>
+												<path d="M14.485813,9.35172982 L14.4867011,17.8204283" class="Line-55" stroke-width="0.5"></path>
+												<path d="M15.9594457,9.35172982 L15.9603339,17.8204283" class="Line-56" stroke-width="0.5"></path>
+												<path d="M1.10522459,9.7199341 L18.4204098,9.7199341" class="Line" stroke-width="2"></path>
+												<path d="M12.8154143,1.73517298 L18.8206204,1.73517298" class="Line" stroke-width="0.5"></path>
+											</g>
+											<g class="階段RR" transform="translate(764.770017, 277.111537) scale(-1, 1) translate(-764.770017, -277.111537) translate(754.270017, 267.611537)" stroke="#979797" stroke-linecap="square">
+												<path d="M1.22400979,10.4060956 L1.22400979,18.8747941" class="Line-44" stroke-width="0.5"></path>
+												<path d="M2.69763888,10.4060956 L2.69763888,18.8747941" class="Line-45" stroke-width="0.5"></path>
+												<path d="M2.69763888,2.30560132 L2.69763888,10.7742998" class="Line-57" stroke-width="0.5"></path>
+												<path d="M4.17127167,2.30560132 L4.17127167,10.7742998" class="Line-58" stroke-width="0.5"></path>
+												<path d="M5.64490445,2.30560132 L5.64490445,10.7742998" class="Line-59" stroke-width="0.5"></path>
+												<path d="M7.11853723,2.30560132 L7.11853723,10.7742998" class="Line-60" stroke-width="0.5"></path>
+												<path d="M8.59217001,2.30560132 L8.59217001,10.7742998" class="Line-61" stroke-width="0.5"></path>
+												<path d="M10.0658028,2.30560132 L10.0649146,10.7742998" class="Line-62" stroke-width="0.5"></path>
+												<path d="M11.5394356,2.30560132 L11.5385474,10.7742998" class="Line-63" stroke-width="0.5"></path>
+												<path d="M13.0130684,2.30560132 L13.0121802,10.7742998" class="Line-64" stroke-width="0.5"></path>
+												<path d="M14.4867011,2.30560132 L14.485813,10.7742998" class="Line-65" stroke-width="0.5"></path>
+												<path d="M15.9603339,2.30560132 L15.9594457,10.7742998" class="Line-66" stroke-width="0.5"></path>
+												<path d="M17.4339667,2.30560132 L17.4330785,10.7742998" class="Line-67" stroke-width="0.5"></path>
+												<path d="M4.17127167,10.4060956 L4.17127167,18.8747941" class="Line-47" stroke-width="0.5"></path>
+												<path d="M5.64490445,10.4060956 L5.64490445,18.8747941" class="Line-48" stroke-width="0.5"></path>
+												<path d="M7.11853723,10.4060956 L7.11853723,18.8747941" class="Line-49" stroke-width="0.5"></path>
+												<path d="M8.59217001,10.4060956 L8.59217001,18.8747941" class="Line-50" stroke-width="0.5"></path>
+												<path d="M10.0658028,10.4060956 L10.0658028,18.8747941" class="Line-51" stroke-width="0.5"></path>
+												<path d="M11.5394356,10.4060956 L11.5394356,18.8747941" class="Line-52" stroke-width="0.5"></path>
+												<path d="M10.0658028,10.4060956 L10.0658028,18.8747941" class="Line-53" stroke-width="0.5"></path>
+												<path d="M13.0121802,10.4060956 L13.0130684,18.8747941" class="Line-54" stroke-width="0.5"></path>
+												<path d="M14.485813,10.4060956 L14.4867011,18.8747941" class="Line-55" stroke-width="0.5"></path>
+												<path d="M15.9594457,10.4060956 L15.9603339,18.8747941" class="Line-56" stroke-width="0.5"></path>
+												<path d="M1.10522459,10.7742998 L18.4204098,10.7742998" class="Line" stroke-width="2"></path>
+												<g class="Group" transform="translate(3.368164, 0.000000)">
+													<path d="M0.401852943,2.4307908 L15.4206541,2.43079077" class="Line-41"></path>
+												</g>
+											</g>
+											
+											<g class="A113" transform="translate(713.000000, 252.000000)">
+												<polygon class="Rectangle-14" stroke="#979797" fill="#F0F0F0" points="0.85658441 3.13025983e-23 38.400381 0 38.400381 78.3774992 0.85658441 78.3774999"></polygon>
+												<text class="A113" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="4" y="42">A113</tspan>
+												</text>
+											</g>
+											<g class="A112" transform="translate(669.000000, 252.000000)">
+												<polygon class="Rectangle-14" stroke="#979797" fill="#F0F0F0" points="0 0 44.7273064 6.3914575e-07 44.7273064 78.3774999 0 78.3774999"></polygon>
+												<text class="A112" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="7" y="42">A112</tspan>
+												</text>
+											</g>
+											<g class="A111" transform="translate(633.000000, 267.000000)">
+												<polygon class="Rectangle-14" stroke="#979797" fill="#F0F0F0" points="0.509758415 12.1294798 10.586474 8.8817842e-14 35.5097584 5.96723124e-07 35.5097584 63.3774998 0.509758415 63.3774993"></polygon>
+												<text class="A111" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="3" y="35">A111</tspan>
+												</text>
+											</g>
+											<g class="A110" transform="translate(563.000000, 266.399994)">
+												<polygon class="Rectangle-20" stroke="#979797" fill="#F0F0F0" points="-3.55271368e-14 0 23.8004986 0 30.9288608 13.2330203 30.6423487 64 -3.55271368e-14 64"></polygon>
+												<text class="A110" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="0" y="35">A110</tspan>
+												</text>
+											</g>
+											<g class="A109" transform="translate(518.000000, 252.000000)">
+												<rect class="Rectangle-9" stroke="#979797" fill="#F0F0F0" x="0" y="0" width="45" height="78.1472375"></rect>
+												<text class="A109" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="6" y="42">A109</tspan>
+												</text>
+											</g>
+											<g class="A108" transform="translate(486.000000, 252.000000)">
+												<polygon class="Rectangle-9-Copy" stroke="#979797" fill="#F0F0F0" points="0.0343259697 0 31.9602732 2.23146986e-06 31.9602732 78.1472397 0.0343259697 78.1472375"></polygon>
+												<text class="A108" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+                          <tspan x="0" y="42">A108</tspan>
+												</text>
+											</g>
+											<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover107&quot;); return false;"  onmouseout="infoOut(&quot;hover107&quot;); return false;" onclick="infoChange(&quot;map107&quot;); return false;" class="areaMap mapA107">
+											<g class="A107" transform="translate(435.000000, 252.000000)">
+												<rect class="Rectangle-9-Copy-4" stroke="#979797" fill="#FFE4B9" x="0" y="0" width="50.925358" height="78.1472375"></rect>
+												<text class="A107" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="10" y="42">A107</tspan>
+												</text>
+											</g>
+										</a>
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover106&quot;); return false;"  onmouseout="infoOut(&quot;hover106&quot;); return false;" onclick="infoChange(&quot;map106&quot;); return false;" class="areaMap mapA106">
+											<g class="A106" transform="translate(268.000000, 252.000000)">
+												<polygon class="Rectangle-8" stroke="#979797" fill="#FFE4B9" points="0.693495764 0.175102683 57 0.175102046 57 78.3223395 0.693495764 78.3223401"></polygon>
+												<text class="A106" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="13" y="42">A106</tspan>
+												</text>
+											</g>
+										</a>
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover105&quot;); return false;"  onmouseout="infoOut(&quot;hover105&quot;); return false;" onclick="infoChange(&quot;map105&quot;); return false;" class="areaMap mapA105">
+											<g class="A105" transform="translate(229.000000, 252.000000)">
+												<rect class="Rectangle-4" stroke="#979797" fill="#FFE4B9" x="0" y="0.175115295" width="39" height="78.1472375"></rect>
+												<text class="A105" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="4" y="42">A105</tspan>
+												</text>
+											</g>
+										</a>
+										<g class="A104" transform="translate(187.000000, 252.000000)">
+											<rect class="Rectangle-3" stroke="#979797" fill="#F0F0F0" x="0.0483670672" y="0.175115295" width="41.9516329" height="78.1472375"></rect>
+											<text class="A104" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="6" y="42">A104</tspan>
+											</text>
+										</g>
+										<g class="A103" transform="translate(155.758802, 266.399994)">
+											<polygon class="Rectangle-5" stroke="#979797" fill="#F1F1F1" points="0.0483459381 12.6051598 7.20420806 -6.3226461e-17 31.0483446 -6.3226461e-17 31.0483432 64 0.0483445813 64"></polygon>
+											<text class="A103" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="0" y="35">A103</tspan>
+											</text>
+										</g>
+										<g class="A102" transform="translate(92.000000, 266.000000)">
+											<polygon class="Path" stroke="#979797" fill="#F0F0F0" points="0.880638376 0.399993896 21.014094 0.399993896 29.7024754 12.9389281 29.7024754 64.3999939 0.880638376 64.399992"></polygon>
+											<text class="A102" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="0" y="35">A102</tspan>
+											</text>
+										</g>
+										<g class="A101" transform="translate(42.000000, 252.000000)">
+											<polygon class="Rectangle-7" stroke="#979797" fill="#F0F0F0" points="0.583799273 68.2124028 0.583799472 0.118782462 50.6767369 0.118783099 50.6767369 78.2660206 13.2420228 78.2660199 13.2420226 68.2124028"></polygon>
+											<text class="A101" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="10" y="42">A101</tspan>
+											</text>
+										</g>
+										<g class="A165" transform="translate(710.107912, 141.708402)">
+											<polygon class="Rectangle-24" stroke="#979797" fill="#F0F0F0" points="0.608643683 2.84217094e-14 41.2924694 3.46389584e-14 41.2924694 62 0.608643683 62"></polygon>
+											<text class="A165" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="5" y="34">A165</tspan>
+											</text>
+										</g>
+										<g class="A164" transform="translate(675.000000, 141.710007)">
+											<rect class="Rectangle-24" stroke="#979797" fill="#F0F0F0" x="0.293935055" y="-2.84217094e-14" width="35" height="61.591135"></rect>
+											<text class="A164" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="2" y="34">A164</tspan>
+                      </text>
+										</g>
+                  	<g class="A163" transform="translate(644.162600, 141.708402)">
+											<polygon class="Rectangle-23" stroke="#979797" fill="#F0F0F0" points="4.42040853 35.256852 0.0625114382 35.2568528 0.0625114382 0 31.0625114 0 31.0625114 61.591135 4.42040853 61.591137"></polygon>
+											<text class="A163" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="0" y="34">A163</tspan>
+											</text>
+										</g>
+										<g class="A161-A162" transform="translate(494.694342, 141.708402)">
+											<polygon class="Rectangle-22" stroke="#979797" fill="#F0F0F0" points="0.368408196 0 86.3094406 0 86.3094406 35.4942018 75.9710922 35.4942018 75.9710922 62 0.368408196 61.999998"></polygon>
+											<text class="A161" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="9" y="32">A161</tspan>
+											</text>
+											<text class="A162" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="46" y="32">A162</tspan>
+											</text>
+										</g>
+										<g class="A159-A160" transform="translate(412.434578, 141.708402)">
+											<polygon class="Rectangle-21" stroke="#979797" fill="#F0F0F0" points="0.161880987 1.97651218e-06 82.9965801 0 82.9965801 61.999998 0.161880987 62"></polygon>
+											<text class="A159" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="8" y="32">A159</tspan>
+											</text>
+											<text class="A160" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="44" y="32">A160</tspan>
+											</text>
+										</g>
+										<g class="A158" transform="translate(339.000000, 141.710007)">
+											<polygon class="Rectangle-20" stroke="#979797" fill="#F0F0F0" points="0.0490068359 0 74 1.97651217e-06 74 62 0.0490068359 61.999998"></polygon>
+											<text class="A158" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="22" y="34">A158</tspan>
+											</text>
+										</g>
+										<g class="A156-A157" transform="translate(255.000000, 141.710007)">
+											<polygon class="Rectangle-20" stroke="#979797" fill="#F0F0F0" points="0.0483445813 0 84.1191301 1.97651217e-06 84.1191301 62 0.0483445813 61.999998"></polygon>
+											<text class="A156" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="9" y="32">A156</tspan>
+											</text>
+											<text class="A157" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="45" y="32">A157</tspan>
+											</text>
+										</g>
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover155&quot;); return false;"  onmouseout="infoOut(&quot;hover155&quot;); return false;" onclick="infoChange(&quot;map155&quot;); return false;" class="areaMap mapA155">
+											<g class="A153-~-A155" transform="translate(146.705579, 140.708402)">
+												<polygon class="Rectangle-18" stroke="#979797" fill="#FFE4B9" points="26.0483436 18.9688392 0.457541197 18.9688392 0.457541197 11.0195573 5.37421796 11.0195573 5.37421772 0.727022673 108.366301 0.727022673 108.366301 63 26.0483446 63"></polygon>
+												<text class="A155" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="51" y="44">A155</tspan>
+												</text>
+												<g class="A153-+-A155" transform="translate(33.000000, 17.000000)" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<text class="A153">
+														<tspan x="0" y="9">A153</tspan>
+													</text>
+													<text class="A154">
+														<tspan x="36.8408196" y="9">A154</tspan>
+													</text>
+												</g>
+											</g>
+										</a>
+										<g class="A151-A152" transform="translate(44.000000, 141.372078)">
+											<polygon class="Rectangle-17" stroke="#979797" fill="#F0F0F0" points="0.0483445813 0 57.8884313 0 78.6093492 0 78.6093492 10.734764 84.6763506 10.734764 84.6763506 18.6836911 57.8884325 18.6836911 57.8884313 62 0.0483445813 62"></polygon>
+											<text class="A151" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="14" y="28">A151</tspan>
+												<tspan x="14" y="43.153639">A152</tspan>
+											</text>
+										</g>
+										<g class="一階中央L" transform="translate(325.000000, 262.000000)" stroke="#979797" stroke-linecap="square">
+											<path d="M34.6199951,59.5094868 L34.6199951,0.366550311" class="Line"></path>
+											<path d="M0.5,5.5 L9.5,5.5" class="Line"></path>
+											<path d="M25.5,5.5 L34.5,5.5" class="Line"></path>
+										</g>
+										<g class="一階中央R" transform="translate(397.000000, 266.000000)">
+											<path d="M1.9,55.1400146 L1.9,1.5" class="Line" stroke="#979797" stroke-linecap="square"></path>
+											<polyline class="Line" stroke="#979797" stroke-linecap="square" points="20.0400085 63.1400146 20.0400085 31.4625439 18.5631045 31.4625439"></polyline>
+											<g class="toiletLMan" transform="translate(2.000000, 38.000000)">
+												<use class="Rectangle-26" fill="#007fff" stroke="#979797" mask="url(#mask-21)" stroke-width="0.4" xlink:href="#path-20"></use>
+												<image x="-4px" y="-4px" width="25px" height="25px" xlink:href="img/mensToilet.png"></image>
+											</g>
+											<g class="車いす用トイレ" transform="translate(19.559998, 4.000000)">
+												<use class="Rectangle-29" fill="#007fff" stroke="#979797" mask="url(#mask-24)" stroke-width="0.4" xlink:href="#path-23"></use>
+												<g class="1">
+											<image x="-1.5px" y="-2px" width="22px" height="22px" xlink:href="img/wheelchair.png"></image>
+												</g>
+											</g>
+											<path d="M20.0400085,21.5054245 L20.0400085,1.5 L37.7487704,1.5" class="Line" stroke="#979797" stroke-linecap="square" transform="translate(28.894389, 11.502712) scale(1, -1) translate(-28.894389, -11.502712) "></path>
+											<path d="M2,1.5 L8.5,1.5" class="Line" stroke="#979797" stroke-linecap="square"></path>
+											<path d="M32.5,1.5 L37.5,1.5" class="Line" stroke="#979797" stroke-linecap="square"></path>
+											<path d="M2.5,31.5 L6.5,31.5" class="Line" stroke="#979797" stroke-linecap="square"></path>
+										</g>
+										<g class="外階段L" transform="translate(100.000000, 132.000000)" stroke="#979797" stroke-width="0.5" stroke-linecap="square">
+											<path d="M0,1.25 L62.0725365,1.25" class="Line"></path>
+											<path d="M2.25,1.5 L2.25,9" class="Line"></path>
+											<path d="M4.25,1.5 L4.25,9" class="Line"></path>
+											<path d="M6.25,1.5 L6.25,9" class="Line"></path>
+											<path d="M8.25,1.5 L8.25,9" class="Line"></path>
+										</g>
+										<text class="A棟-1F" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN" font-size="53.0087507" font-weight="500" fill="#71CDF2">
+											<tspan x="25.9179821" y="86.9451753">A棟 1F</tspan>
+										</text>
+									</g>
+								</g>
+
+								<!-- compass -->
+								<g class="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+									<g class="2FMap-Copy-3F" sketch:type="MSArtboardGroup">
+										<ellipse class="Oval-1" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup" cx="723.742281" cy="80.0470132" rx="25.1773938" ry="25.1773938"></ellipse>
+										<g class="Triangle-1-+-Triangle-1-Copy" sketch:type="MSLayerGroup" transform="translate(726.369517, 80.200204) rotate(86.000000) translate(-726.369517, -80.200204) translate(710.869517, 57.700204)" fill="#979797" opacity="0.989622201">
+											<polygon class="Triangle-1" sketch:type="MSShapeGroup" points="14.6915519 0.454786041 14.6915518 40.4854613 0.0427905321 44.4905133 "></polygon>
+											<polygon class="Triangle-1-Copy-2" sketch:type="MSShapeGroup" points="16.056348 0.478283189 16.056348 40.491472 30.6424743 44.510689 "></polygon>
+										</g>
+										<text class="N" sketch:type="MSTextLayer" transform="translate(758.742281, 77.547013) rotate(-4.000000) translate(-758.742281, -77.547013) " font-family="Arial" font-size="13" font-weight="normal" fill="#979797">
+											<tspan x="753.742281" y="82.0470132">N</tspan>
+										</text>	
+									</g>
+								</g><!-- compass -->
+
+								<!-- direction -->
+								<g class="2FMap-Copy-2F" sketch:type="MSArtboardGroup">
+									<g class="キャンパスグリーン-+-Triangle-5" sketch:type="MSLayerGroup" transform="translate(103.000000, 364.000000)">
+										<text class="キャンパスグリーン" sketch:type="MSTextLayer" font-family="Hiragino Kaku Gothic ProN" font-size="13" font-weight="313" fill="#979797">
+											<tspan x="14" y="11">キャンパスグリーン</tspan>
+										</text>
+										<polygon class="Triangle-5" stroke="#9B9B9B" fill="#9B9B9B" sketch:type="MSShapeGroup" transform="translate(8.631116, 19.000028) rotate(39.000000) translate(-8.631116, -19.000028) " points="8.63111601 24.2750281 15.131116 13.7250279 2.13111601 13.7250279 "></polygon>
+									</g>
+									<g class="本館-+-Triangle-5-Copy" sketch:type="MSLayerGroup" transform="translate(366.798809, 361.000000)">
+										<text class="本館" sketch:type="MSTextLayer" font-family="Hiragino Kaku Gothic ProN" font-size="13" font-weight="313" fill="#979797">
+											<tspan x="0" y="11">本館</tspan>
+										</text>
+										<polygon class="Triangle-5-Copy" stroke="#9B9B9B" fill="#9B9B9B" sketch:type="MSShapeGroup" points="13.5 29.5500002 20 19 7 19 "></polygon>
+									</g>
+									<g class="B・C棟-+-Triangle-5-Copy-2" sketch:type="MSLayerGroup" transform="translate(605.798809, 370.000000)">
+										<text class="B・C棟" sketch:type="MSTextLayer" font-family="Hiragino Kaku Gothic ProN" font-size="13" font-weight="313" fill="#979797">
+											<tspan x="0" y="11">B・C棟</tspan>
+										</text>
+										<polygon class="Triangle-5-Copy-2" stroke="#9B9B9B" fill="#9B9B9B" sketch:type="MSShapeGroup" points="55 11.9255357 64.0386411 6.48841837 55 0.607541372 "></polygon>
+									</g>
+								</g><!-- direction -->
+							</svg>
+						</div><!--map-->
+      			<!-- 1FMap_End -->
+
+						<!-- 1F_detail -->
+						<div class="roomEventDetail">
+							<div id="A105detail" class="roomContents">
+								<!--<div class="mapLabPhoto"><img src="img/fm_ugaLab.jpg"></div>-->
+								<div class="mapLabPhoto"><img src="img/fm_ugaLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>プログラミング言語研究室</span></div>
+									<div class="lab2"><span>ドローンをプログラムしよう</span></div>
+									<div class="lab3"><span>Raspberry piとドローンのプログラミング、<br />作品展示をします。遊んでいってください。</span></div>
+								</div>
+							</div>
+							<div id="A106detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_study.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>情報学群 体験授業教室</span></div>
+									<div class="lab2"><span>ここでしか体験できない模擬講義！</span></div>
+									<div class="lab3"><span>情報学群の先生方による特別講義を実施します。<br />また、情報学群の説明会も行います。<br />※詳しくは体験授業の項目を参照してください。</span></div>
+								</div>
+							</div>
+							<div id="A107detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_soudan.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>情報学群相談コーナー</span></div>
+									<div class="lab2"><span>情報学群の先輩や先生が相談に応じます！</span></div>
+									<div class="lab3"><span>進路のことなど、相談したいことがある方は<br />一度訪れてみてはいかがでしょうか。<br />※11:20〜12:10の時間は実施していません。</span></div>
+								</div>
+							</div>
+							<div id="A155detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_brainCC.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>脳コミュニケーション<br />研究センター</span></div>
+									<div class="lab2"><span>MRIでヒトの脳を覗いてみよう</span></div>
+									<div class="lab3"><span>脳についての簡単なクイズとMRI装置について紹介しています。また、例年フルーツや野菜を事前に撮影し、<br />どんな構造になっているのかをお見せしています。</span></div>
+								</div>
+							</div>
+						</div><!-- roomEventDetail -->
+
+						<div class="areaBox">
+							<div class="areaTable">
+								<div class="table">
+
+									<div class="row list105" onmouseover="infoHover(&quot;hover105&quot;);return false;"  onmouseout="infoOut(&quot;hover105&quot;);return false;" onclick="infoChange(&quot;map105&quot;);return false;">
+										<div class="tableRoomList">A105</div>
+										<div>プログラミング言語研究室(鵜川研)<br />ドローンをプログラムしよう</div>
+									</div>
+									<div class="row list106" onmouseover="infoHover(&quot;hover106&quot;);return false;"  onmouseout="infoOut(&quot;hover106&quot;);return false;" onclick="infoChange(&quot;map106&quot;); return false;">
+										<div class="tableRoomList">A106</div>
+										<div>情報学群	体験授業教室</div>
+									</div>
+									<div class="row list107" onmouseover="infoHover(&quot;hover107&quot;);return false;"  onmouseout="infoOut(&quot;hover107&quot;);return false;" onclick="infoChange(&quot;map107&quot;); return false;">
+										<div class="tableRoomList">A107</div>
+										<div>情報学群相談コーナー</div>
+									</div>
+									<div class="row list155" onmouseover="infoHover(&quot;hover155&quot;);return false;"  onmouseout="infoOut(&quot;hover155&quot;);return false;" onclick="infoChange(&quot;map155&quot;); return false;">
+										<div class="tableRoomList">A155</div>
+										<div>脳コミュニケーション研究センター<br />認知神経科学研究室(中原研) ＆ 身体情報サイエンス研究室(門田研)<br />MRIでヒトの脳を覗いてみよう<br />10:00～,11:00～,12:00～,13:00～,14:00～</div>
+									</div>
+								</div><!-- table -->
+							</div><!-- areaTable -->
+						</div><!-- areaBox -->
+					</div><!-- A-1F -->
+
+					<!-- 2FMap -->
+					<div id="A-2F">
+						<div class="map">
+							<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+							<svg width="800px" height="404px" viewBox="0 0 800 404" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"><!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+								<title>2FMap</title>
+								<desc>Created with Sketch.</desc><defs></defs>
+								<g class="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+									<g id="2FMap" sketch:type="MSArtboardGroup">
+										<path d="M41.9501369,284.204212 L15.0983826,284.20421 L15.0983826,267.017785 L29.6941953,267.017785 L29.6941949,241.620184 L39.7839072,241.620184 L39.7839062,213.32484 L19.5751727,213.324843 L19.5751727,191.629371 L32.7455521,191.629371 L32.7455521,178.309917 L43.4210096,178.309917 L43.4210096,141.480137 L122.798908,141.480137 L122.798908,150.064343 L128.269157,150.066644 L128.269157,145.289241 L147.489726,145.289241 L147.489726,150.066644 L151.840353,150.064343 L151.840353,141.480137 L360.989921,141.480137 L360.989921,119.945175 L397.856194,119.945175 L397.856194,141.480137 L596.698717,141.480137 L596.698717,150.066644 L602.999822,150.066644 L602.999822,145.289241 L622.153645,145.289241 L622.153645,150.066644 L628.53444,150.066644 L628.53444,141.480137 L751.961305,141.480137 L751.96132,176.539487 L765.331182,176.539487 L765.331167,194.767167 L773.813026,194.767167 L773.813026,219.371366 L751.224362,219.371366 L751.224362,241.620184 L768.009787,241.620184 L768.009787,269.658758 L784.807243,269.658758 L784.807243,287.045017 L751.961305,287.045017 L751.961313,330.506148 L633.090082,330.506148 L633.090089,296.920382 L594.403226,296.920382 L594.403219,330.506148 L397.430252,330.506157 L397.430261,346.290323 L360.634989,346.290331 L360.634989,330.506157 L154.822662,330.506157 L154.822666,296.920382 L122.798912,296.920382 L122.798908,330.506157 L54.4985352,330.506148 L54.4985352,320.618704 L41.9501369,320.618704 L41.9501369,284.204212 Z" class="外枠" stroke="#979797" stroke-width="2" fill="#E9E1D4" sketch:type="MSShapeGroup"></path>
+										<path d="M38.9070929,207.432867 L108.861602,207.432867 L108.861605,226.233242 L166.762554,226.233242 L166.762551,207.432867 L173.377793,207.432867 L173.377795,247.567133 L166.762551,247.567133 C166.762551,247.567133 157.614019,260.09472 137.951343,260.09472 C118.288668,260.09472 108.861604,247.567133 108.861604,247.567133 L38.9070929,247.567133 L38.9070929,207.432867 Z" class="Rectangle-2-Copy-2" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+										<path d="M188.74403,207.432867 L272.849525,207.432867 L288.570475,242.636499 L284.313746,247.567133 L189.016137,247.567133 L188.74403,207.432867 Z" class="Rectangle-2-Copy-3" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+										<path d="M283.111679,212.026009 L286.414943,207.432867 L372.134482,207.432867 L371.586765,247.567133 L299.722745,247.567133 L283.111679,212.026009 Z" class="Rectangle-2-Copy-4" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+										<path d="M502.641025,212.026009 L499.33776,207.432867 L384.790829,207.432867 L385.338545,247.567133 L486.029959,247.567133 L502.641025,212.026009 Z" class="Rectangle-2-Copy-5" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+										<path d="M496.145404,242.557643 L512.234566,207.432867 L584.740761,207.432867 L584.740761,226.233242 L639.71808,226.233242 L639.71808,207.432867 L644.353129,207.432867 L644.353131,247.567133 L639.71808,247.567133 C639.71808,247.567133 633.569294,260.09472 612.486333,260.09472 C591.403371,260.09472 584.740761,247.567133 584.740761,247.567133 L500.314676,247.567133 L496.145404,242.557643 Z" class="Rectangle-2-Copy-6" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+										<path d="M659.347822,207.432867 L751.219445,207.432867 L750.760299,247.567133 L659.347822,247.567133 L659.347822,207.432867 Z" class="Rectangle-2-Copy-7" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+										<g class="EV-LL" sketch:type="MSLayerGroup" transform="translate(108.602553, 207.248764)">
+											<path d="M19.5256344,13.6235585 L19.5256344,18.7784185" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<path d="M0.556223732,0.550485465 L19.492405,0.550485465 L19.492405,3.41238242" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<rect class="Rectangle-26" fill="#888888" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="1.1" y="1" width="17.9" height="17"></rect>
+											<image x="-1.5px" y="-2px" width="23px" height="23px" xlink:href="img/elevator.png"></image>
+										</g>
+										<g class="EV-RL" sketch:type="MSLayerGroup" transform="translate(584.585942, 207.248764)">
+											<path d="M19.5256344,13.6235585 L19.5256344,18.7784185" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<path d="M0.556223732,0.550485465 L19.492405,0.550485465 L19.492405,3.41238242" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<rect class="Rectangle-26" fill="#888888" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="1.1" y="1" width="17.9" height="17"></rect>
+											<image x="-1.5px" y="-2px" width="23px" height="23px" xlink:href="img/elevator.png"></image>
+										</g>
+										<g class="EV-LR" sketch:type="MSLayerGroup" transform="translate(147.653821, 207.248764)">
+											<path d="M0.736816391,13.6235585 L0.736816391,18.7784185" class="Line-22" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<path d="M19.492405,0.550485465 L0.556223732,0.550485465 L0.556223732,3.41238242" class="Line-21" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<rect class="Rectangle-26" fill="#888888" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="1.1" y="1" width="17.9" height="17"></rect>
+											<image x="-1.5px" y="-2px" width="23px" height="23px" xlink:href="img/elevator.png"></image>
+										</g>
+										<g class="EV-RR" sketch:type="MSLayerGroup" transform="translate(620.689945, 207.248764)">
+											<path d="M0.736816391,13.6235585 L0.736816391,18.7784185" class="Line-22" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<path d="M19.492405,0.550485465 L0.556223732,0.550485465 L0.556223732,3.41238242" class="Line-21" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<rect class="Rectangle-26" fill="#888888" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="1.1" y="1" width="17.9" height="17"></rect>
+											<image x="-1.5px" y="-2px" width="23px" height="23px" xlink:href="img/elevator.png"></image>
+										</g>
+										<path d="M122.233656,312.555189 L156.12721,312.555189" class="Line" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<path d="M595.638187,314.028007 L632.847415,314.028007" class="Line-24" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<g class="A201-A202" sketch:type="MSLayerGroup" transform="translate(42.289077, 263.952224)">
+											<path d="M40.4512154,0.148515503 L70.7250165,0.148515503 L70.7250167,11.2174693 L79.413398,11.217469 L79.413398,66.4252865 L40.4512154,66.4252865 L12.9529454,66.4252865 L12.9529454,56.136259 L0.294722059,56.136259 L0.294722059,0.148515503 L40.4512154,0.148515503 Z" class="Rectangle-6" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup"></path>
+											<text class="A201" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="5.15771474" y="36.247117">A201</tspan>
+											</text>
+											<text class="A202" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="43.4721671" y="36.247117">A202</tspan>
+											</text>
+										</g>
+										<text class="A棟-2F" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN" font-size="53.0087507" font-weight="500" fill="#71CDF2">
+											<tspan x="25.9179821" y="86.9451753">A棟 2F</tspan>
+										</text>
+										<g class="toiletL" sketch:type="MSLayerGroup" transform="translate(101.234389, 146.126853)">
+											<rect class="Rectangle-26" fill="#ff007f" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="0" y="0" width="18.4204098" height="17.6738056"></rect>
+											<image x="-3px" y="-4px" width="25px" height="25px" xlink:href="img/womensToilet.png"></image>
+											<g class="toiletLMan" transform="translate(53.050780, 0.000000)">
+												<rect class="Rectangle-26" fill="#007fff" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="0" y="0" width="18.1028165" height="17.6738056"></rect>
+												<image x="-4px" y="-4px" width="25px" height="25px" xlink:href="img/mensToilet.png"></image>
+											</g>
+										</g>
+										<g class="toiletR" sketch:type="MSLayerGroup" transform="translate(575.080992, 146.126853)">
+											<g class="toiletWomen">
+												<rect class="Rectangle-26" fill="#ff007f" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="0" y="0" width="18.4204098" height="17.6738056"></rect>
+												<image x="-3px" y="-4px" width="25px" height="25px" xlink:href="img/womensToilet.png"></image>
+											</g>
+											<g class="toiletLMan" transform="translate(57.029607, 0.000000)">
+												<rect class="Rectangle-26" fill="#007fff" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="0" y="0" width="18.1028165" height="17.6738056"></rect>
+												<image x="-4px" y="-4px" width="25px" height="25px" xlink:href="img/mensToilet.png"></image>
+											</g>
+										</g>
+										<rect class="Rectangle-24" stroke="#979797" sketch:type="MSShapeGroup" x="101.971205" y="167.482702" width="19.8940426" height="25.0378913"></rect>
+										<rect class="Rectangle-28" stroke="#979797" sketch:type="MSShapeGroup" x="575.744145" y="167.482702" width="19.9646931" height="24.8864936"></rect>
+										<g class="階段" sketch:type="MSLayerGroup" transform="translate(127.612407, 149.808896)" stroke="#979797" stroke-linecap="square">
+											<path d="M1.10522459,0.368204283 L1.10522459,42.7116969" class="Line" sketch:type="MSShapeGroup"></path>
+											<path d="M10.3154295,10.6779242 L10.3154295,33.5065898" class="Line-3" sketch:type="MSShapeGroup"></path>
+											<path class="Line" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,11.9666392 L9.94702128,11.9666392"></path>
+											<path class="Line-4" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,14.1758649 L9.94702128,14.1758649"></path>
+											<path class="Line-5" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,16.3850906 L9.94702128,16.3850906"></path>
+											<path class="Line-6" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,18.5943163 L9.94702128,18.5943163"></path>
+											<path class="Line-7" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,20.803542 L9.94702128,20.803542"></path>
+											<path class="Line-8" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,23.0127677 L9.94702128,23.0127677"></path>
+											<path class="Line-9" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,25.2219934 L9.94702128,25.2219934"></path>
+											<path class="Line-10" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,27.4312191 L9.94702128,27.4312191"></path>
+											<path class="Line-11" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,30.0086491 L9.94702128,30.0086491"></path>
+											<path class="Line-20" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,14.1758649 L19.5256344,14.1758649"></path>
+											<path class="Line-12" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,16.3850906 L19.5256344,16.3850906"></path>
+											<path class="Line-13" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,18.5943163 L19.5256344,18.5943163"></path>
+											<path class="Line-14" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,20.803542 L19.5256344,20.803542"></path>
+											<path class="Line-15" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,23.0127677 L19.5256344,23.0127677"></path>
+											<path class="Line-16" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,25.2219934 L19.5256344,25.2219934"></path>
+											<path class="Line-17" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,27.4312191 L19.5256344,27.4312191"></path>
+											<path class="Line-18" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,29.6404448 L19.5256344,29.6404448"></path>
+											<path class="Line-19" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,32.2178748 L19.5256344,32.2178748"></path>
+											<path d="M19.5256344,0.368204283 L19.5256344,42.7116969" class="Line-2" sketch:type="MSShapeGroup"></path>
+										</g>
+										<g class="階段-2" sketch:type="MSLayerGroup" transform="translate(602.269535, 149.660381)" stroke="#979797" stroke-linecap="square">
+											<path d="M1.10522459,0.368204283 L1.10522459,42.7116969" class="Line" sketch:type="MSShapeGroup"></path>
+											<path d="M10.3154295,10.6779242 L10.3154295,33.5065898" class="Line-3" sketch:type="MSShapeGroup"></path>
+											<path class="Line" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,11.9666392 L9.94702128,11.9666392"></path>
+											<path class="Line-4" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,14.1758649 L9.94702128,14.1758649"></path>
+											<path class="Line-5" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,16.3850906 L9.94702128,16.3850906"></path>
+											<path class="Line-6" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,18.5943163 L9.94702128,18.5943163"></path>
+											<path class="Line-7" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,20.803542 L9.94702128,20.803542"></path>
+											<path class="Line-8" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,23.0127677 L9.94702128,23.0127677"></path>
+											<path class="Line-9" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,25.2219934 L9.94702128,25.2219934"></path>
+											<path class="Line-10" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,27.4312191 L9.94702128,27.4312191"></path>
+											<path class="Line-11" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10522459,30.0086491 L9.94702128,30.0086491"></path>
+											<path class="Line-20" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,14.1758649 L19.5256344,14.1758649"></path>
+											<path class="Line-12" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,16.3850906 L19.5256344,16.3850906"></path>
+											<path class="Line-13" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,18.5943163 L19.5256344,18.5943163"></path>
+											<path class="Line-14" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,20.803542 L19.5256344,20.803542"></path>
+											<path class="Line-15" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,23.0127677 L19.5256344,23.0127677"></path>
+											<path class="Line-16" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,25.2219934 L19.5256344,25.2219934"></path>
+											<path class="Line-17" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,27.4312191 L19.5256344,27.4312191"></path>
+											<path class="Line-18" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,29.6404448 L19.5256344,29.6404448"></path>
+											<path class="Line-19" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.6838377,32.2178748 L19.5256344,32.2178748"></path>
+											<path d="M19.5256344,0.368204283 L19.5256344,42.7116969" class="Line-2" sketch:type="MSShapeGroup"></path>
+										</g>
+										<path d="M172.717829,167.482702 L151.838933,167.482702 L151.838933,192.221281 L162.278381,192.221281" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<path d="M650.456535,167.482702 L629.57764,167.482702 L629.57764,192.221281 L640.017088,192.221281" class="Line-23" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<g class="Bottom" sketch:type="MSLayerGroup" transform="translate(360.642193, 315.500824)" stroke="#979797" stroke-linecap="square">
+											<g class="Group" transform="translate(8.104980, 0.000000)" sketch:type="MSShapeGroup">
+												<path d="M0.278795391,6.18583196 L5.29711244,6.18583196" class="Line"></path>
+												<path d="M15.3703656,6.18583196 L20.3886827,6.18583196" class="Line-27"></path>
+												<path d="M10.1541876,5.89126853 C10.1541876,10.1771257 5.57590783,11.1994825 5.57590783,11.1994825 L5.57590783,0.525321974 C5.57590783,0.525321974 10.1541876,1.60541135 10.1541876,5.89126853 Z" class="Line"></path>
+												<path d="M10.5942249,5.89126853 C10.5942249,10.1771257 15.1725047,11.1994825 15.1725047,11.1994825 L15.1725047,0.525321974 C15.1725047,0.525321974 10.5942249,1.60541135 10.5942249,5.89126853 Z" class="Line-26"></path>
+											</g>
+											<path d="M0,19.514827 L0,6.25947282 L7.60347133,6.25947282" class="Line" stroke-width="2" sketch:type="MSShapeGroup"></path>
+											<path d="M36.7947081,19.4952119 L36.7947081,6.25947282 L28.689316,6.25947282" class="Line-25" stroke-width="2" sketch:type="MSShapeGroup"></path>
+										</g>
+										<g class="Bottom" sketch:type="MSLayerGroup" transform="translate(379.750985, 133.239703) scale(1, -1) translate(-379.750985, -133.239703) translate(360.962167, 123.298188)" stroke="#979797" stroke-linecap="square">
+											<g class="Group" transform="translate(8.104980, 0.000000)" sketch:type="MSShapeGroup">
+												<path d="M0.278795391,6.18583196 L5.29711244,6.18583196" class="Line"></path>
+												<path d="M15.3703656,6.18583196 L20.3886827,6.18583196" class="Line-27"></path>
+												<path d="M10.1541876,5.89126853 C10.1541876,10.1771257 5.57590783,11.1994825 5.57590783,11.1994825 L5.57590783,0.525321974 C5.57590783,0.525321974 10.1541876,1.60541135 10.1541876,5.89126853 Z" class="Line"></path>
+												<path d="M10.5942249,5.89126853 C10.5942249,10.1771257 15.1725047,11.1994825 15.1725047,11.1994825 L15.1725047,0.525321974 C15.1725047,0.525321974 10.5942249,1.60541135 10.5942249,5.89126853 Z" class="Line-26"></path>
+											</g>
+											<path d="M0,19.514827 L0,6.25947282 L7.60347133,6.25947282" class="Line" stroke-width="2" sketch:type="MSShapeGroup"></path>
+											<path d="M36.8891642,19.514827 L36.8891642,6.25947282 L28.689316,6.25947282" class="Line-25" stroke-width="2" sketch:type="MSShapeGroup"></path>
+										</g>
+										<g class="中央下階段" sketch:type="MSLayerGroup" transform="translate(359.856942, 266.161450)" stroke="#979797" stroke-linecap="square">
+											<path d="M0.368408196,42.1593904 L9.94702128,42.1593904" class="Line-28" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M0.368408196,39.9501647 L9.94702128,39.9501647" class="Line" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M0.368408196,37.740939 L9.94702128,37.740939" class="Line-29" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M0.368408196,35.5317133 L9.94702128,35.5317133" class="Line-30" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M0.368408196,33.3224876 L9.94702128,33.3224876" class="Line-31" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M0.368408196,31.1132619 L9.94702128,31.1132619" class="Line-32" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M0.368408196,28.9040362 L9.94702128,28.9040362" class="Line-33" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M0.368408196,26.6948105 L9.94702128,26.6948105" class="Line-34" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M0.368408196,24.4855848 L9.94702128,24.4855848" class="Line-35" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M0.368408196,22.2763591 L9.94702128,22.2763591" class="Line-36" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M0.368408196,20.0671334 L9.94702128,20.0671334" class="Line-37" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M0.368408196,17.8579077 L9.94702128,17.8579077" class="Line-38" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M10.2422521,0.368204283 C10.2422521,0.368204283 25.8631677,3.08111017 25.8631677,21.085704 C25.8631677,39.0902979 10.2422521,42.0218672 10.2422521,42.0218672 L10.2422521,15.177815 L4.99958264,15.177815 L4.99958264,17.1971812 L0.559186638,17.1971812 L0.559186638,0.368204283 L10.2422521,0.368204283 Z" class="Line" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+										</g>
+										<path d="M751.403529,192.122679 L751.403529,208.174195" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<path d="M751.474854,194.361614 L753.685303,194.361614" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<path d="M762.895508,194.361614 L765.105957,194.361614" class="Line-40" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<path d="M764.954587,194.352693 L764.954587,219.48763" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<path d="M32.4167457,192.005109 L39.7849096,192.005109 L39.7839062,197.397865" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<g class="階段LL" sketch:type="MSLayerGroup" transform="translate(20.184586, 247.014827)" stroke="#979797" stroke-linecap="square">
+											<path d="M1.22400979,28.3517298 L1.22400979,36.8204283" class="Line-44" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M2.69763888,28.3517298 L2.69763888,36.8204283" class="Line-45" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M2.69763888,20.2512356 L2.69763888,28.7199341" class="Line-57" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M4.17127167,20.2512356 L4.17127167,28.7199341" class="Line-58" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M5.64490445,20.2512356 L5.64490445,28.7199341" class="Line-59" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M7.11853723,20.2512356 L7.11853723,28.7199341" class="Line-60" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.59217001,20.2512356 L8.59217001,28.7199341" class="Line-61" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M10.0658028,20.2512356 L10.0649146,28.7199341" class="Line-62" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M11.5394356,20.2512356 L11.5385474,28.7199341" class="Line-63" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M13.0130684,20.2512356 L13.0121802,28.7199341" class="Line-64" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M14.4867011,20.2512356 L14.485813,28.7199341" class="Line-65" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M15.9603339,20.2512356 L15.9594457,28.7199341" class="Line-66" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M17.4339667,20.2512356 L17.4330785,28.7199341" class="Line-67" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M4.17127167,28.3517298 L4.17127167,36.8204283" class="Line-47" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M5.64490445,28.3517298 L5.64490445,36.8204283" class="Line-48" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M7.11853723,28.3517298 L7.11853723,36.8204283" class="Line-49" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.59217001,28.3517298 L8.59217001,36.8204283" class="Line-50" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M10.0658028,28.3517298 L10.0658028,36.8204283" class="Line-51" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M11.5394356,28.3517298 L11.5394356,36.8204283" class="Line-52" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M10.0658028,28.3517298 L10.0658028,36.8204283" class="Line-53" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M13.0121802,28.3517298 L13.0130684,36.8204283" class="Line-54" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M14.485813,28.3517298 L14.4867011,36.8204283" class="Line-55" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M15.9594457,28.3517298 L15.9603339,36.8204283" class="Line-56" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M1.10522459,28.7199341 L18.4204098,28.7199341" class="Line" stroke-width="2" sketch:type="MSShapeGroup"></path>
+											<g class="Group" transform="translate(7.368164, 0.000000)" sketch:type="MSShapeGroup">
+												<path d="M0.368408196,20.376425 L11.4206541,20.376425" class="Line-41"></path>
+												<path d="M8.59127912,3.31383855 L8.59127912,20.2512356" class="Line-46" stroke-width="0.5"></path>
+												<path d="M7.11764634,3.31383855 L7.11764634,20.2512356" class="Line-69" stroke-width="0.5"></path>
+												<path d="M10.0649119,3.31383855 L10.0649119,20.2512356" class="Line-68" stroke-width="0.5"></path>
+												<path d="M2.57885737,3.31383855 L11.7267104,3.31383855 L11.7267104,0.267499304" class="Line"></path>
+											</g>
+										</g>
+										<g class="階段RR" sketch:type="MSLayerGroup" transform="translate(765.691404, 269.548934) scale(-1, 1) translate(-765.691404, -269.548934) translate(756.112791, 252.611537)" stroke="#979797" stroke-linecap="square">
+											<path d="M1.22400979,25.4060956 L1.22400979,33.8747941" class="Line-44" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M2.69763888,25.4060956 L2.69763888,33.8747941" class="Line-45" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M2.69763888,17.3056013 L2.69763888,25.7742998" class="Line-57" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M4.17127167,17.3056013 L4.17127167,25.7742998" class="Line-58" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M5.64490445,17.3056013 L5.64490445,25.7742998" class="Line-59" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M7.11853723,17.3056013 L7.11853723,25.7742998" class="Line-60" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.59217001,17.3056013 L8.59217001,25.7742998" class="Line-61" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M10.0658028,17.3056013 L10.0649146,25.7742998" class="Line-62" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M11.5394356,17.3056013 L11.5385474,25.7742998" class="Line-63" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M13.0130684,17.3056013 L13.0121802,25.7742998" class="Line-64" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M14.4867011,17.3056013 L14.485813,25.7742998" class="Line-65" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M15.9603339,17.3056013 L15.9594457,25.7742998" class="Line-66" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M17.4339667,17.3056013 L17.4330785,25.7742998" class="Line-67" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M4.17127167,25.4060956 L4.17127167,33.8747941" class="Line-47" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M5.64490445,25.4060956 L5.64490445,33.8747941" class="Line-48" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M7.11853723,25.4060956 L7.11853723,33.8747941" class="Line-49" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.59217001,25.4060956 L8.59217001,33.8747941" class="Line-50" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M10.0658028,25.4060956 L10.0658028,33.8747941" class="Line-51" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M11.5394356,25.4060956 L11.5394356,33.8747941" class="Line-52" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M10.0658028,25.4060956 L10.0658028,33.8747941" class="Line-53" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M13.0121802,25.4060956 L13.0130684,33.8747941" class="Line-54" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M14.485813,25.4060956 L14.4867011,33.8747941" class="Line-55" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M15.9594457,25.4060956 L15.9603339,33.8747941" class="Line-56" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M1.10522459,25.7742998 L18.4204098,25.7742998" class="Line" stroke-width="2" sketch:type="MSShapeGroup"></path>
+											<g class="Group" transform="translate(7.368164, 0.000000)" sketch:type="MSShapeGroup">
+ 												<path d="M0.368408196,17.4307908 L11.4206541,17.4307908" class="Line-41"></path>
+												<path d="M8.59127912,0.368204283 L8.59127912,17.3056013" class="Line-46" stroke-width="0.5"></path>
+												<path d="M7.11764634,0.368204283 L7.11764634,17.3056013" class="Line-69" stroke-width="0.5"></path>
+												<path d="M10.0649119,0.368204283 L10.0649119,17.3056013" class="Line-68" stroke-width="0.5"></path>
+											</g>
+										</g>
+										<path d="M767.684815,252.537891 L751.401912,252.537891 L751.401912,247.286762" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+
+										<!-- 2FRoom -->
+										<g class="A203" sketch:type="MSLayerGroup" transform="translate(155.758802, 263.952224)">
+											<path d="M0.0483445813,11.2155106 L9.05155619,11.2155106 L9.05155619,0.148515503 L39.0512687,0.148515503 L39.0512687,66.4252865 L0.0483445813,66.4252865 L0.0483445813,11.2155106 Z" class="Rectangle-5" stroke="#979797" fill="#F1F1F1" sketch:type="MSShapeGroup"></path>
+											<text sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="4.42089835" y="36.247117">A203</tspan>
+											</text>
+										</g>
+										<g class="A204" sketch:type="MSLayerGroup" transform="translate(194.810070, 263.952224)">
+											<rect class="Rectangle-3" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0.0483670672" y="0.148515503" width="41.2133509" height="66.276771"></rect>
+											<text sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="5.89453113" y="36.247117">A204</tspan>
+											</text>
+										</g>
+										<g class="A205" sketch:type="MSLayerGroup" transform="translate(236.071788, 263.952224)">
+											<rect class="Rectangle-4" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0.0483895531" y="0.148515503" width="40.5249015" height="66.276771"></rect>
+											<text sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="5.15771474" y="36.247117">A205</tspan>
+											</text>
+										</g>
+										<g class="Room_A206-207" sketch:type="MSLayerGroup" transform="translate(276.596690, 263.952224)">
+											<rect class="Rectangle-8" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0.0484120389" y="0.148504267" width="83.2602522" height="66.276771"></rect>
+											<text class="A207" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="44.2089835" y="45.8204283">A207</tspan>
+											</text>
+											<text class="A206-2" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="8.15339234" y="45.9689326">A206</tspan>
+											</text>
+											<text class="A-WS" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="13.2521877" font-weight="526" fill="#5C5C5C">
+												<tspan x="22.1529038" y="29.0859013">A-WS</tspan>
+											</text>
+										</g>
+										<g class="Room_A208" sketch:type="MSLayerGroup" transform="translate(398.171394, 263.952224)">
+											<rect class="Rectangle-9-Copy-4" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0" y="0" width="58.9453113" height="66.276771"></rect>
+											<text class="A208" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="13.9995114" y="36.247117">A208</tspan>
+											</text>
+										</g>
+										<g class="Room_A209" sketch:type="MSLayerGroup" transform="translate(456.379889, 263.952224)">
+											<rect class="Rectangle-9-Copy" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0" y="0" width="33.1567376" height="66.276771"></rect>
+											<text class="A209" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="1.47363278" y="36.247117">A209</tspan>
+											</text>
+										</g>
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover210&quot;); return false;" onmouseout="infoOut(&quot;hover210&quot;); return false;" onclick="infoChange(&quot;map210&quot;); return false;" class="areaMap mapA210">
+											<g class="Room_A210" sketch:type="MSLayerGroup" transform="translate(489.905035, 263.952224)">
+												<rect class="Rectangle-9" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup" x="0" y="0" width="32.564653" height="66.276771"></rect>
+												<text class="A210" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+													<tspan x="0.736816391" y="36.247117">A210</tspan>
+												</text>
+											</g>
+										</a>
+										<g class="Room_A211" sketch:type="MSLayerGroup" transform="translate(522.693365, 263.952224)">
+											<rect class="Rectangle-9-Copy-2" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0" y="0" width="33.1567376" height="66.276771"></rect>
+											<text class="A211" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="2.94726557" y="37.7199341">A211</tspan>
+											</text>
+										</g>
+										<g class="Room_A212" sketch:type="MSLayerGroup" transform="translate(555.850102, 263.952224)">
+											<path d="M0.321302614,0 L28.9909428,0 L28.9909428,11.8678377 L37.577636,11.8678377 L37.577636,66.276771 L0.666429851,66.276771 L0.321302614,0 Z" class="Rectangle-20" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup"></path>
+											<text class="A212" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="3.68408196" y="37.7199341">A212</tspan>
+											</text>
+										</g>
+										<g class="Room_A213-A215" sketch:type="MSLayerGroup" transform="translate(633.215823, 263.952224)">
+											<path d="M0.293935055,11.1344939 L10.6230232,11.1344946 L10.6230232,0.148504198 L118.184558,0.148504267 L118.184558,66.4252753 L0.293935055,66.4252753 L0.293935055,11.1344939 Z" class="Rectangle-14" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup"></path>
+											<text class="A213" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="8.10498031" y="37.7199341">A213</tspan>
+											</text>
+											<text class="A214" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="43.4721671" y="37.7199341">A214</tspan>
+											</text>
+											<text class="A215" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="81.7866195" y="37.7199341">A215</tspan>
+											</text>
+										</g>
+										<g class="Room_A251" sketch:type="MSLayerGroup" transform="translate(43.762710, 141.708402)">
+											<rect class="Rectangle-17" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0.0483445813" y="0" width="57.8400867" height="50.6636756"></rect>
+											<text class="A251" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="13.262695" y="31.092257">A251</tspan>
+											</text>
+										</g>
+										<g class="Room_A255-A256" sketch:type="MSLayerGroup" transform="translate(263.333995, 141.708402)">
+											<rect class="Rectangle-20" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0.0483445813" y="0" width="97.9804577" height="50.6636756"></rect>
+											<text class="A255" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="13.9995114" y="31.092257">A255</tspan>
+											</text>
+											<text class="A256" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="53.7875966" y="31.092257">A256</tspan>
+											</text>
+										</g>
+										<g class="Room_A257-A258" sketch:type="MSLayerGroup" transform="translate(397.434578, 141.708402)">
+											<rect class="Rectangle-21" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0.0483445813" y="0" width="97.9482355" height="50.6636756"></rect>
+											<text class="A257" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="14.7363278" y="31.092257">A257</tspan>
+											</text>
+											<text class="A258" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="55.9980458" y="31.092257">A258</tspan>
+											</text>
+										</g>
+										<g class="Room_A259-260" sketch:type="MSLayerGroup" transform="translate(494.694342, 141.708402)">
+											<rect class="Rectangle-22" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0.368408196" y="0" width="80.3130092" height="50.6636756"></rect>
+											<text class="A259" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="7.36816391" y="39.1927512">A259</tspan>
+											</text>
+											<text class="学生実験室" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="13.2521877" font-weight="526" fill="#5C5C5C">
+												<tspan x="8.10498031" y="22.3097199">学生実験室</tspan>
+											</text>
+											<text class="A260" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="44.2089835" y="39.1927512">A260</tspan>
+											</text>
+										</g>
+										<g class="Romm_A261" sketch:type="MSLayerGroup" transform="translate(650.162600, 141.708402)">
+											<rect class="Rectangle-23" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0.293935055" y="0" width="59.3137195" height="50.6636756"></rect>
+											<text class="A261" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="14.7363278" y="30.3558484">A261</tspan>
+											</text>
+										</g>
+										<g class="Room_A262" sketch:type="MSLayerGroup" transform="translate(709.107912, 141.708402)">
+											<rect class="Rectangle-24" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0.293935055" y="0" width="41.9985343" height="50.6636756"></rect>
+											<text class="A262" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="5.89453113" y="29.6194399">A262</tspan>
+											</text>
+										</g>
+										<g class="Room_A252-A254" sketch:type="MSLayerGroup" transform="translate(172.705579, 141.708402)">
+											<rect class="Rectangle-18" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0.0483445813" y="0" width="90.9484798" height="50.6636756"></rect>
+											<text class="A254" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3072571" font-weight="526" fill="#5C5C5C">
+												<tspan x="29.4726557" y="39.6298477">A254</tspan>
+											</text>
+											<g class="A252-+-A253" transform="translate(11.789062, 12.518946)" font-size="10.3072571" font-family="HiraKakuProN-W6" fill="#5C5C5C" sketch:type="MSTextLayer" font-weight="526">
+												<text class="A252">
+											    <tspan x="0" y="9">A252</tspan>
+												</text>
+												<text class="A253">
+											    <tspan x="36.8408196" y="9">A253</tspan>
+												</text>
+											</g>
+										</g><!-- 2FRoom -->
+										<g class="車いす用トイレ" sketch:type="MSLayerGroup" transform="translate(154.285169, 171.164745)">
+											<rect class="Rectangle-29" fill="#007fff" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="0" y="0" width="18.4204098" height="17.6738056"></rect>
+											<image x="-1.5px" y="-2px" width="22px" height="22px" xlink:href="img/wheelchair.png"></image>
+										</g>
+									</g>
+
+									<!-- compass -->
+									<g class="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+										<g class="2FMap-Copy-3F" sketch:type="MSArtboardGroup">
+											<ellipse class="Oval-1" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup" cx="723.742281" cy="80.0470132" rx="25.1773938" ry="25.1773938"></ellipse>
+											<g class="Triangle-1-+-Triangle-1-Copy" sketch:type="MSLayerGroup" transform="translate(726.369517, 80.200204) rotate(86.000000) translate(-726.369517, -80.200204) translate(710.869517, 57.700204)" fill="#979797" opacity="0.989622201">
+												<polygon class="Triangle-1" sketch:type="MSShapeGroup" points="14.6915519 0.454786041 14.6915518 40.4854613 0.0427905321 44.4905133 "></polygon>
+												<polygon class="Triangle-1-Copy-2" sketch:type="MSShapeGroup" points="16.056348 0.478283189 16.056348 40.491472 30.6424743 44.510689 "></polygon>
+											</g>
+											<text class="N" sketch:type="MSTextLayer" transform="translate(758.742281, 77.547013) rotate(-4.000000) translate(-758.742281, -77.547013) " font-family="Arial" font-size="13" font-weight="normal" fill="#979797">
+												<tspan x="753.742281" y="82.0470132">N</tspan>
+											</text>
+										</g>
+									</g><!-- compass_End -->
+	
+									<!-- direction -->
+									<g class="2FMap-Copy-2F" sketch:type="MSArtboardGroup">
+										<g class="キャンパスグリーン-+-Triangle-5" sketch:type="MSLayerGroup" transform="translate(103.000000, 364.000000)">
+											<text class="キャンパスグリーン" sketch:type="MSTextLayer" font-family="Hiragino Kaku Gothic ProN" font-size="13" font-weight="313" fill="#979797">
+												<tspan x="14" y="11">キャンパスグリーン</tspan>
+											</text>
+											<polygon class="Triangle-5" stroke="#9B9B9B" fill="#9B9B9B" sketch:type="MSShapeGroup" transform="translate(8.631116, 19.000028) rotate(39.000000) translate(-8.631116, -19.000028) " points="8.63111601 24.2750281 15.131116 13.7250279 2.13111601 13.7250279 "></polygon>
+										</g>
+										<g class="本館-+-Triangle-5-Copy" sketch:type="MSLayerGroup" transform="translate(366.798809, 361.000000)">
+											<text class="本館" sketch:type="MSTextLayer" font-family="Hiragino Kaku Gothic ProN" font-size="13" font-weight="313" fill="#979797">
+												<tspan x="0" y="11">本館</tspan>
+											</text>
+											<polygon class="Triangle-5-Copy" stroke="#9B9B9B" fill="#9B9B9B" sketch:type="MSShapeGroup" points="13.5 29.5500002 20 19 7 19 "></polygon>
+										</g>
+										<g class="B・C棟-+-Triangle-5-Copy-2" sketch:type="MSLayerGroup" transform="translate(605.798809, 370.000000)">
+											<text class="B・C棟" sketch:type="MSTextLayer" font-family="Hiragino Kaku Gothic ProN" font-size="13" font-weight="313" fill="#979797">
+												<tspan x="0" y="11">B・C棟</tspan>
+											</text>
+											<polygon class="Triangle-5-Copy-2" stroke="#9B9B9B" fill="#9B9B9B" sketch:type="MSShapeGroup" points="55 11.9255357 64.0386411 6.48841837 55 0.607541372 "></polygon>
+										</g>
+									</g><!-- direction_End -->
+								</g>
+							</svg>
+						</div><!--map-->
+						<!-- 2FMap_End -->
+
+						<div class="roomEventDetail">
+							<div id="A210detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_kadoLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>身体情報サイエンス研究室</span></div>
+									<div class="lab2"><span>体験、運動の奇妙な世界：<br />的にボールが当たらない!?</span></div>
+									<div class="lab3"><span>門田研究室(身体情報サイエンス研究室)では、<br />「脳がどのように身体を動かしているのか」を中心<br />テーマとして研究しています。研究室では、ヒトの運動<br />能力を実感できる不思議な世界を体験してもらいます。</span></div>
+								</div>
+							</div>
+						</div><!-- roomEventDetail -->
+
+			      <div class="areaBox">
+				      <div class="areaTable">
+								<div class="table">
+									<div class="row list210" onmouseover="infoHover(&quot;hover210&quot;); return false;" onmouseout="infoOut(&quot;hover210&quot;); return false;" onclick="infoChange(&quot;map210&quot;); return false;">
+										<div class="tableRoomList">A210</div>
+										<div>身体情報サイエンス研究室(門田研)</div>
+									</div>
+
+								</div><!-- table -->
+							</div><!-- areaTable -->
+						</div><!-- areaBox -->
+
+					</div><!--A-2F-->
+
+					<!-- 3FMap -->
+					<div id="A-3F">
+						<div class="map">
+							<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+							<svg width="800px" height="380px" viewBox="0 0 800 380" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+								<!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+								<title>3FMap</title>
+								<desc>Created with Sketch.</desc>
+								<defs>
+									<path d="M40.4805292,0.148928582 L70.776269,0.148928582 L70.7762691,11.2486694 L79.4709467,11.2486691 L79.4709467,66.6100409 L40.4805292,66.6100409 L12.962332,66.6100409 L12.962332,56.2923956 L0.294935636,56.2923956 L0.294935636,0.148928582 L40.4805292,0.148928582 Z" id="path-1"></path>
+								</defs>
+								<g class="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+									<g id="3FMap" sketch:type="MSArtboardGroup">
+										<path d="M42.4116697,270.983569 L15.5404567,270.983566 L15.5404567,253.749339 L30.1468465,253.749339 L30.1468462,228.281098 L40.2438702,228.281098 L40.2438691,199.907053 L20.020491,199.907056 L20.020491,178.151241 L33.2004146,178.151241 L33.2004146,164.79474 L43.8836082,164.79474 L43.8836082,127.862522 L123.31903,127.862522 L123.31903,136.470604 L129.714582,136.472911 L129.714582,140.713311 C129.714582,140.713311 132.227903,136.472911 138.143887,136.472911 C144.05987,136.472911 147.269148,140.713311 147.269148,140.713311 L147.269148,136.472911 L152.38152,136.470604 L152.38152,127.862522 L361.682653,127.862522 C361.682653,127.862522 365.594561,120.259263 379.719969,120.259263 C393.845376,120.259263 398.575642,127.862522 398.575642,127.862522 L597.56226,127.862522 L597.56226,136.472911 L604.705882,136.472911 L604.705882,140.711646 C604.705882,140.711646 606.385262,136.472911 613.172179,136.472911 C619.959097,136.472911 622.214982,140.848127 622.214982,140.848127 L622.214982,136.472911 L629.421054,136.472911 L629.421054,127.862522 L752.937362,127.862522 L752.937378,163.019386 L766.316929,163.019386 L766.316914,181.297764 L774.804919,181.297764 L774.804919,205.970397 L752.199886,205.970397 L752.199886,228.281098 L768.997475,228.281098 L768.997475,256.397658 L785.807103,256.397658 L785.807103,273.832274 L752.937362,273.832274 L752.937371,317.414288 L633.979998,317.414288 L633.980004,283.735107 L595.265106,283.735107 L595.265099,317.414288 L398.149392,317.414296 L398.149407,273.832274 L361.327456,273.832274 L361.327464,317.414296 L155.365991,317.414296 L155.365994,283.735107 L123.319033,283.735107 L123.31903,317.414296 L54.9691614,317.414288 L54.9691614,307.499343 L42.4116697,307.499343 L42.4116697,270.983569 Z" class="外枠" stroke="#979797" stroke-width="2" fill="#E9E1D4" sketch:type="MSShapeGroup"></path>
+										<path d="M39.2000008,194.071928 L109.15451,194.071928 L109.154513,212.872303 L167.055462,212.872303 L167.055459,194.071928 L173.670701,194.071928 L173.670703,234.206195 L167.055459,234.206195 C167.055459,234.206195 157.906927,246.733782 138.244251,246.733782 C118.581576,246.733782 109.154511,234.206195 109.154511,234.206195 L39.2000008,234.206195 L39.2000008,194.071928 Z" class="Rectangle-2-Copy-2" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+										<path d="M190.08181,194.071928 L274.187306,194.071928 L289.908255,229.275561 L285.651526,234.206195 L190.353917,234.206195 L190.08181,194.071928 Z" class="Rectangle-2-Copy-3" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+										<path d="M284.449459,198.66507 L287.752724,194.071928 L373.472262,194.071928 L372.924545,234.206195 L301.060525,234.206195 L284.449459,198.66507 Z" class="Rectangle-2-Copy-4" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+										<path d="M503.978806,198.66507 L500.675541,194.071928 L386.128609,194.071928 L386.676326,234.206195 L487.367739,234.206195 L503.978806,198.66507 Z" class="Rectangle-2-Copy-5" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+										<path d="M497.480011,229.196705 L513.569173,194.071928 L586.075368,194.071928 L586.075368,212.872303 L641.052687,212.872303 L641.052687,194.071928 L645.687736,194.071928 L645.687738,234.206195 L641.052687,234.206195 C641.052687,234.206195 634.903902,246.733782 613.82094,246.733782 C592.737979,246.733782 586.075368,234.206195 586.075368,234.206195 L501.649283,234.206195 L497.480011,229.196705 Z" class="Rectangle-2-Copy-6" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+										<path d="M661.5,194.071928 L753.371623,194.071928 L752.912477,234.206195 L661.5,234.206195 L661.5,194.071928 Z" class="Rectangle-2-Copy-7" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+										<path d="M129.716409,129.701312 L129.716409,136.150445 L147.265271,136.150445 L147.265271,129.507345" class="Line" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup" transform="translate(138.490840, 132.828895) scale(1, -1) translate(-138.490840, -132.828895) "></path>
+										<path d="M604.685589,129.394581 L604.685589,135.843713 L622.234451,135.843713 L622.234451,129.200613" class="Line-26" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup" transform="translate(613.460020, 132.522163) scale(1, -1) translate(-613.460020, -132.522163) "></path>
+										<path d="M122.753368,299.413401 L156.671484,299.413401" class="Line-25" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<g class="EV-LL" sketch:type="MSLayerGroup" transform="translate(109.112387, 193.814078)">
+											<path d="M19.539784,13.6614509 L19.539784,18.8306485" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<path d="M0.556626812,0.552016577 L19.5065306,0.552016577 L19.5065306,3.42187357" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<rect class="Rectangle-26" fill="#888888" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="1.1" y="1" width="17.9" height="17"></rect>
+											<image x="-1.5px" y="-2px" width="23px" height="23px" xlink:href="img/elevator.png"></image>
+										</g>
+										<g class="EV-RL" sketch:type="MSLayerGroup" transform="translate(585.440707, 193.814078)">
+											<path d="M19.539784,13.6614509 L19.539784,18.8306485" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<path d="M0.556626812,0.552016577 L19.5065306,0.552016577 L19.5065306,3.42187357" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<rect class="Rectangle-26" fill="#888888" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="1.1" y="1" width="17.9" height="17"></rect>
+											<image x="-1.5px" y="-2px" width="23px" height="23px" xlink:href="img/elevator.png"></image>
+										</g>
+										<g class="EV-LR" sketch:type="MSLayerGroup" transform="translate(148.191955, 193.814078)">
+											<path d="M0.737350341,13.6614509 L0.737350341,18.8306485" class="Line-22" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<path d="M19.5065306,0.552016577 L0.556626812,0.552016577 L0.556626812,3.42187357" class="Line-21" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<rect class="Rectangle-26" fill="#888888" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="1.1" y="1" width="17.9" height="17"></rect>
+											<image x="-1.5px" y="-2px" width="23px" height="23px" xlink:href="img/elevator.png"></image>
+										</g>
+										<g class="EV-RR" sketch:type="MSLayerGroup" transform="translate(622.308224, 193.814078)">
+											<path d="M0.737350341,13.6614509 L0.737350341,18.8306485" class="Line-22" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<path d="M19.5065306,0.552016577 L0.556626812,0.552016577 L0.556626812,3.42187357" class="Line-21" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+											<rect class="Rectangle-26" fill="#888888" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="1.1" y="1" width="17.9" height="17"></rect>
+											<image x="-1.5px" y="-2px" width="23px" height="23px" xlink:href="img/elevator.png"></image>
+										</g>
+										<path d="M362.023554,317.402208 L397.047695,317.402208" class="Line" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<path d="M596.500962,300.890314 L633.737154,300.890314" class="Line-24" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+
+										<g class="toiletL" sketch:type="MSLayerGroup" transform="translate(101.738883, 132.522163)">
+											<rect class="Rectangle-26" fill="#ff007f" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="0" y="0" width="18.4337585" height="17.7229633"></rect>
+											<image x="-3px" y="-4px" width="25px" height="25px" xlink:href="img/womensToilet.png"></image>
+											<g class="toiletLMan" transform="translate(53.089225, 0.000000)">
+												<rect class="Rectangle-26" fill="#007fff" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="0" y="0" width="18.1159351" height="17.7229633"></rect>
+												<image x="-4px" y="-4px" width="25px" height="25px" xlink:href="img/mensToilet.png"></image>
+											</g>
+										</g>
+										<g class="toiletR" sketch:type="MSLayerGroup" transform="translate(575.928870, 132.522163)">
+											<rect class="Rectangle-26" fill="#ff007f" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="0" y="0" width="18.4337585" height="17.7229633"></rect>
+											<image x="-3px" y="-4px" width="25px" height="25px" xlink:href="img/womensToilet.png"></image>
+											<g class="toiletLMan" transform="translate(57.070934, 0.000000)">
+												<rect class="Rectangle-26" fill="#007fff" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="0" y="0" width="18.1159351" height="17.7229633"></rect>
+												<image x="-4px" y="-4px" width="25px" height="25px" xlink:href="img/mensToilet.png"></image>
+											</g>
+										</g>
+										<rect class="Rectangle-24" stroke="#979797" sketch:type="MSShapeGroup" x="102.476233" y="153.93741" width="19.9084592" height="25.1075313"></rect>
+										<rect class="Rectangle-28" stroke="#979797" sketch:type="MSShapeGroup" x="576.592503" y="153.93741" width="19.979161" height="24.9557125"></rect>
+										<g class="階段" sketch:type="MSLayerGroup" transform="translate(128.136016, 136.214447)" stroke="#979797" stroke-linecap="square">
+											<path d="M1.10602551,0.369228402 L1.10602551,42.8304946" class="Line" sketch:type="MSShapeGroup"></path>
+											<path d="M10.3229048,10.7076236 L10.3229048,33.5997845" class="Line-3" sketch:type="MSShapeGroup"></path>
+											<path class="Line" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,11.9999231 L9.95422961,11.9999231"></path>
+											<path class="Line-4" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,14.2152935 L9.95422961,14.2152935"></path>
+											<path class="Line-5" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,16.4306639 L9.95422961,16.4306639"></path>
+											<path class="Line-6" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,18.6460343 L9.95422961,18.6460343"></path>
+											<path class="Line-7" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,20.8614047 L9.95422961,20.8614047"></path>
+											<path class="Line-8" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,23.0767751 L9.95422961,23.0767751"></path>
+											<path class="Line-9" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,25.2921455 L9.95422961,25.2921455"></path>
+											<path class="Line-10" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,27.5075159 L9.95422961,27.5075159"></path>
+											<path class="Line-11" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,30.0921147 L9.95422961,30.0921147"></path>
+											<path class="Line-20" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,14.2152935 L19.539784,14.2152935"></path>
+											<path class="Line-12" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,16.4306639 L19.539784,16.4306639"></path>
+											<path class="Line-13" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,18.6460343 L19.539784,18.6460343"></path>
+											<path class="Line-14" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,20.8614047 L19.539784,20.8614047"></path>
+											<path class="Line-15" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,23.0767751 L19.539784,23.0767751"></path>
+											<path class="Line-16" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,25.2921455 L19.539784,25.2921455"></path>
+											<path class="Line-17" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,27.5075159 L19.539784,27.5075159"></path>
+											<path class="Line-18" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,29.7228863 L19.539784,29.7228863"></path>
+											<path class="Line-19" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,32.3074851 L19.539784,32.3074851"></path>
+											<path d="M19.539784,0.369228402 L19.539784,42.8304946" class="Line-2" sketch:type="MSShapeGroup"></path>
+										</g>
+										<g class="階段-2" sketch:type="MSLayerGroup" transform="translate(603.137115, 136.065518)" stroke="#979797" stroke-linecap="square">
+											<path d="M1.10602551,0.369228402 L1.10602551,42.8304946" class="Line" sketch:type="MSShapeGroup"></path>
+											<path d="M10.3229048,10.7076236 L10.3229048,33.5997845" class="Line-3" sketch:type="MSShapeGroup"></path>
+											<path class="Line" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,11.9999231 L9.95422961,11.9999231"></path>
+											<path class="Line-4" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,14.2152935 L9.95422961,14.2152935"></path>
+											<path class="Line-5" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,16.4306639 L9.95422961,16.4306639"></path>
+											<path class="Line-6" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,18.6460343 L9.95422961,18.6460343"></path>
+											<path class="Line-7" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,20.8614047 L9.95422961,20.8614047"></path>
+											<path class="Line-8" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,23.0767751 L9.95422961,23.0767751"></path>
+											<path class="Line-9" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,25.2921455 L9.95422961,25.2921455"></path>
+											<path class="Line-10" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,27.5075159 L9.95422961,27.5075159"></path>
+											<path class="Line-11" stroke-width="0.5" sketch:type="MSShapeGroup" d="M1.10602551,30.0921147 L9.95422961,30.0921147"></path>
+											<path class="Line-20" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,14.2152935 L19.539784,14.2152935"></path>
+											<path class="Line-12" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,16.4306639 L19.539784,16.4306639"></path>
+											<path class="Line-13" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,18.6460343 L19.539784,18.6460343"></path>
+											<path class="Line-14" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,20.8614047 L19.539784,20.8614047"></path>
+											<path class="Line-15" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,23.0767751 L19.539784,23.0767751"></path>
+											<path class="Line-16" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,25.2921455 L19.539784,25.2921455"></path>
+											<path class="Line-17" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,27.5075159 L19.539784,27.5075159"></path>
+											<path class="Line-18" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,29.7228863 L19.539784,29.7228863"></path>
+											<path class="Line-19" stroke-width="0.5" sketch:type="MSShapeGroup" d="M10.69158,32.3074851 L19.539784,32.3074851"></path>
+											<path d="M19.539784,0.369228402 L19.539784,42.8304946" class="Line-2" sketch:type="MSShapeGroup"></path>
+										</g>
+										<path d="M173.274125,153.93741 L152.380099,153.93741 L152.380099,178.744797 L162.827112,178.744797" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<path d="M651.359036,153.93741 L630.46501,153.93741 L630.46501,178.744797 L640.912023,178.744797" class="Line-23" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<g class="中央下階段" sketch:type="MSLayerGroup" transform="translate(379.719962, 156.522009) scale(-1, 1) translate(-379.719962, -156.522009) translate(361.286203, 137.691361)" stroke="#979797" stroke-linecap="square">
+											<path d="M0.254820607,36.3576027 L8.58592008,36.3576027" class="Line-28" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.42867718,32.7142622 L16.6920862,32.7142622" class="Line-29" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.42867718,30.799281 L16.6920862,30.799281" class="Line-30" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.42867718,28.8842998 L16.6920862,28.8842998" class="Line-31" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.42867718,26.9693186 L16.6920862,26.9693186" class="Line-32" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.42867718,25.0543374 L16.6920862,25.0543374" class="Line-33" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.42867718,23.1393562 L16.6920862,23.1393562" class="Line-34" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.42867718,21.224375 L16.6920862,21.224375" class="Line-35" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.42867718,19.3093938 L16.6920862,19.3093938" class="Line-36" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.42867718,17.3944126 L16.6920862,17.3944126" class="Line-37" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.42867718,15.4794314 L16.6920862,15.4794314" class="Line-38" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M26.2031568,0.319163534 L26.2031568,36.425018 L16.9467799,36.425018 L16.94678,14.9067063 L13.2762529,14.9067066 L13.2762529,13.1562972 L8.59326054,13.1562975 L8.59326054,0.319163534 L26.2031568,0.319163534 Z" class="Line" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+											<path d="M8.47952893,9.96916684 L4.05542688,9.96916684 L4.03681558,7.52201854 L0.173208531,7.52201853" class="Line" sketch:type="MSShapeGroup"></path>
+											<path d="M8.61166074,13.4705969 L8.61166074,35.8151548" class="Line" stroke-width="2" sketch:type="MSShapeGroup"></path>
+											<path d="M26.5446123,26.9693186 L35.8631951,26.9693186" class="Line-39" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M26.6272464,28.9844296 L35.9458292,28.9844295" class="Line-42" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+										</g>
+										<path d="M752.379183,178.645921 L752.379183,194.742083" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<path d="M752.450559,180.891084 L754.66261,180.891084" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<path d="M763.87949,180.891084 L766.091541,180.891084" class="Line-40" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<path d="M765.940061,180.882138 L765.940061,206.086985" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<path d="M32.8713699,178.528024 L40.2448733,178.528024 L40.2438691,183.935779" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+										<g class="階段LL" sketch:type="MSLayerGroup" transform="translate(20.630346, 233.690745)" stroke="#979797" stroke-linecap="square">
+											<path d="M1.22489679,28.4305869 L1.22489679,36.9228402" class="Line-44" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M2.69959378,28.4305869 L2.69959378,36.9228402" class="Line-45" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M2.69959378,20.3075621 L2.69959378,28.7998153" class="Line-57" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M4.17429447,20.3075621 L4.17429447,28.7998153" class="Line-58" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M5.64899515,20.3075621 L5.64899515,28.7998153" class="Line-59" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M7.12369583,20.3075621 L7.12369583,28.7998153" class="Line-60" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.59839652,20.3075621 L8.59839652,28.7998153" class="Line-61" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M10.0730972,20.3075621 L10.0722084,28.7998153" class="Line-62" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M11.5477979,20.3075621 L11.546909,28.7998153" class="Line-63" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M13.0224986,20.3075621 L13.0216097,28.7998153" class="Line-64" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M14.4971992,20.3075621 L14.4963104,28.7998153" class="Line-65" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M15.9718999,20.3075621 L15.9710111,28.7998153" class="Line-66" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M17.4466006,20.3075621 L17.4457118,28.7998153" class="Line-67" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M4.17429447,28.4305869 L4.17429447,36.9228402" class="Line-47" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M5.64899515,28.4305869 L5.64899515,36.9228402" class="Line-48" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M7.12369583,28.4305869 L7.12369583,36.9228402" class="Line-49" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.59839652,28.4305869 L8.59839652,36.9228402" class="Line-50" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M10.0730972,28.4305869 L10.0730972,36.9228402" class="Line-51" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M11.5477979,28.4305869 L11.5477979,36.9228402" class="Line-52" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M10.0730972,28.4305869 L10.0730972,36.9228402" class="Line-53" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M13.0216097,28.4305869 L13.0224986,36.9228402" class="Line-54" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M14.4963104,28.4305869 L14.4971992,36.9228402" class="Line-55" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M15.9710111,28.4305869 L15.9718999,36.9228402" class="Line-56" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M1.10602551,28.7998153 L18.4337585,28.7998153" class="Line" stroke-width="2" sketch:type="MSShapeGroup"></path>
+											<g class="Group" transform="translate(7.373503, 0.000000)" sketch:type="MSShapeGroup">
+												<path d="M0.368675171,20.4330997 L11.4289303,20.4330997" class="Line-41"></path>
+												<path d="M8.59750498,3.32305561 L8.59750498,20.3075621" class="Line-46" stroke-width="0.5"></path>
+												<path d="M7.1228043,3.32305561 L7.1228043,20.3075621" class="Line-69" stroke-width="0.5"></path>
+												<path d="M10.0722057,3.32305561 L10.0722057,20.3075621" class="Line-68" stroke-width="0.5"></path>
+												<path d="M2.5807262,3.32305561 L11.7352084,3.32305561 L11.7352084,0.268243323" class="Line"></path>
+											</g>
+										</g>
+										<g class="階段RR" sketch:type="MSLayerGroup" transform="translate(766.677411, 256.287528) scale(-1, 1) translate(-766.677411, -256.287528) translate(757.091857, 239.303021)" stroke="#979797" stroke-linecap="square">
+											<path d="M1.22489679,25.4767597 L1.22489679,33.969013" class="Line-44" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M2.69959378,25.4767597 L2.69959378,33.969013" class="Line-45" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M2.69959378,17.3537349 L2.69959378,25.8459881" class="Line-57" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M4.17429447,17.3537349 L4.17429447,25.8459881" class="Line-58" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M5.64899515,17.3537349 L5.64899515,25.8459881" class="Line-59" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M7.12369583,17.3537349 L7.12369583,25.8459881" class="Line-60" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.59839652,17.3537349 L8.59839652,25.8459881" class="Line-61" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M10.0730972,17.3537349 L10.0722084,25.8459881" class="Line-62" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M11.5477979,17.3537349 L11.546909,25.8459881" class="Line-63" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M13.0224986,17.3537349 L13.0216097,25.8459881" class="Line-64" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M14.4971992,17.3537349 L14.4963104,25.8459881" class="Line-65" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M15.9718999,17.3537349 L15.9710111,25.8459881" class="Line-66" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M17.4466006,17.3537349 L17.4457118,25.8459881" class="Line-67" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M4.17429447,25.4767597 L4.17429447,33.969013" class="Line-47" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M5.64899515,25.4767597 L5.64899515,33.969013" class="Line-48" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M7.12369583,25.4767597 L7.12369583,33.969013" class="Line-49" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M8.59839652,25.4767597 L8.59839652,33.969013" class="Line-50" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M10.0730972,25.4767597 L10.0730972,33.969013" class="Line-51" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M11.5477979,25.4767597 L11.5477979,33.969013" class="Line-52" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M10.0730972,25.4767597 L10.0730972,33.969013" class="Line-53" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M13.0216097,25.4767597 L13.0224986,33.969013" class="Line-54" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M14.4963104,25.4767597 L14.4971992,33.969013" class="Line-55" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M15.9710111,25.4767597 L15.9718999,33.969013" class="Line-56" stroke-width="0.5" sketch:type="MSShapeGroup"></path>
+											<path d="M1.10602551,25.8459881 L18.4337585,25.8459881" class="Line" stroke-width="2" sketch:type="MSShapeGroup"></path>
+											<g class="Group" transform="translate(7.373503, 0.000000)" sketch:type="MSShapeGroup">
+												<path d="M0.368675171,17.4792725 L11.4289303,17.4792725" class="Line-41"></path>
+												<path d="M8.59750498,0.369228402 L8.59750498,17.3537349" class="Line-46" stroke-width="0.5"></path>
+												<path d="M7.1228043,0.369228402 L7.1228043,17.3537349" class="Line-69" stroke-width="0.5"></path>
+												<path d="M10.0722057,0.369228402 L10.0722057,17.3537349" class="Line-68" stroke-width="0.5"></path>
+											</g>
+										</g>
+										<path d="M768.672267,239.229171 L752.377565,239.229171 L752.377565,233.963437" class="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+
+										<!-- A301/A302 -->
+										<g class="Room_A301/302" sketch:type="MSLayerGroup" transform="translate(42.750856, 250.675252)">
+											<g class="Rectangle-6">
+												<use stroke="#979797" stroke-width="1" fill="#F0F0F0" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+												<use stroke="none" fill="none" xlink:href="#path-1"></use>
+											</g>
+											<text class="A301" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="5.16145239" y="36.3229017">A301</tspan>
+											</text>
+											<text class="A302" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="43.5036701" y="36.3229017">A302</tspan>
+											</text>
+										</g>
+										<!-- A303/A304 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover303&quot;); return false;"  onmouseout="infoOut(&quot;hover303&quot;); return false;" onclick="infoChange(&quot;map303&quot;); return false;" class="areaMap mapA303">
+											<g class="Room_A303/304" sketch:type="MSLayerGroup" transform="translate(156.302808, 250.675252)">
+												<path d="M17.1106011,66.6100409 L34.9704342,66.6100409 L52.3518742,66.6100409 L52.3518742,0.148928582 L34.9704342,0.148928582 L34.9704342,0.148928582 L17.1106011,0.148928582 L4.0235079,0.148928582 L4.0235079,11.2467052 L0.0480864055,11.2467052 L0.0480864055,66.6100409 L17.1106011,66.6100409 Z" class="Rectangle-4" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup"></path>
+												<text class="A303" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="10.8094677" y="30.4666996">A303</tspan>
+												</text>
+												<text class="A304" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="10.8094677" y="45.9742924">A304</tspan>
+												</text>
+											</g>
+										</a><!-- A303/A304_End -->
+										<!-- A305 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover305&quot;); return false;"  onmouseout="infoOut(&quot;hover305&quot;); return false;" onclick="infoChange(&quot;map305&quot;); return false;" class="areaMap mapA305">
+											<g class="Room_A305" sketch:type="MSLayerGroup" transform="translate(208.654683, 250.675252)">
+												<rect class="Rectangle-8" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup" x="0" y="0.148928582" width="52.3037878" height="66.4611123"></rect>
+												<text class="A305" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="10.7613813" y="36.4230922">A305</tspan>
+												</text>
+											</g>
+										</a><!-- A305_End -->
+										<!-- A306 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover306&quot;); return false;"  onmouseout="infoOut(&quot;hover306&quot;); return false;" onclick="infoChange(&quot;map306&quot;); return false;" class="areaMap mapA306">
+											<g class="Room_A306" sketch:type="MSLayerGroup" transform="translate(261.743907, 250.675252)">
+												<rect class="Rectangle-8" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup" x="0" y="0.148917314" width="50.1398232" height="66.4611123"></rect>
+												<text class="A306" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="9.58555444" y="36.3229017">A306</tspan>
+												</text>
+											</g>
+										</a><!-- A306_End -->
+										<!-- A307 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover307&quot;); return false;"  onmouseout="infoOut(&quot;hover307&quot;); return false;"  onclick="infoChange(&quot;map307&quot;); return false;" class="areaMap mapA307">
+											<g class="Room_A307" sketch:type="MSLayerGroup" transform="translate(311.883730, 250.675252)">
+												<rect class="Rectangle-9" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup" x="0.481860968" y="0.148917314" width="48.1248227" height="66.4611123"></rect>
+												<text class="A307" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="9.05991516" y="36.4230809">A307</tspan>
+												</text>
+											</g>
+										</a><!-- A307_End -->
+										<!-- A308 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover308&quot;); return false;"  onmouseout="infoOut(&quot;hover308&quot;); return false;" onclick="infoChange(&quot;map308&quot;); return false;" class="areaMap mapA308">
+											<g class="Room_A308" sketch:type="MSLayerGroup" transform="translate(398.891071, 250.675252)">
+												<rect class="Rectangle-10" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup" x="0" y="0" width="42.7663198" height="66.4611123"></rect>
+												<text class="A308" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="6.63615307" y="37.7998153">A308</tspan>
+												</text>
+											</g>
+										</a><!-- A308_End -->
+										<!-- A309 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover309&quot;); return false;"  onmouseout="infoOut(&quot;hover309&quot;); return false;" onclick="infoChange(&quot;map309&quot;); return false;" class="areaMap mapA309">
+											<g class="Room_A309" sketch:type="MSLayerGroup" transform="translate(441.657391, 250.675252)">
+												<rect class="Rectangle-11" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup" x="0" y="0" width="50.8771736" height="66.4611123"></rect>
+												<text class="A309" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="10.3229048" y="37.7998153">A309</tspan>
+												</text>
+											</g>
+										</a><!-- A309_End -->
+										<!-- A310/A311 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover310&quot;); return false;"  onmouseout="infoOut(&quot;hover310&quot;); return false;" onclick="infoChange(&quot;map310&quot;); return false;" class="areaMap mapA310">
+											<g class="Room_A310/311" sketch:type="MSLayerGroup" transform="translate(492.534564, 250.675252)">
+												<rect class="Rectangle-12" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup" x="0" y="0" width="50.8771736" height="66.4611123"></rect>
+												<text class="A310" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="10.3229048" y="31.8921609">A310</tspan>
+												</text>
+												<text class="A311" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="10.3229048" y="47.3997538">A311</tspan>
+												</text>
+											</g>
+										</a><!-- A310/A311_End -->
+										<!-- A312 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover312&quot;); return false;"  onmouseout="infoOut(&quot;hover312&quot;); return false;" onclick="infoChange(&quot;map312&quot;); return false;" class="areaMap mapA312">
+											<g class="Room_A312" sketch:type="MSLayerGroup" transform="translate(543.411738, 250.675252)">
+												<path d="M0,0 L48.6397729,0 L48.6397729,11.9008467 L50.8771736,11.9008467 L50.8771736,66.4611123 L0,66.4611123 L0,0 Z" class="Rectangle-20" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup"></path>
+												<text class="A312" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="11.0602551" y="37.7998153">A312</tspan>
+												</text>
+											</g>
+										</a><!-- A312_End -->
+										<!-- A313 -->
+										<g class="Room_A313" sketch:type="MSLayerGroup" transform="translate(634.105830, 261.752104)">
+											<path d="M0.294148061,0.0886112106 L16.7249216,0.0886112106 L16.7249216,55.5331776 L0.294148061,55.5331776 L0.294148061,0.0886112106 Z" class="Rectangle-14" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup"></path>
+											<text class="A313" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" line-spacing="7" fill="#5C5C5C">
+												<tspan x="4.42410205" y="11.2153704">A</tspan>
+												<tspan x="4.42410205" y="23.2153704">3</tspan>
+												<tspan x="4.42410205" y="35.2153704">1</tspan>
+												<tspan x="4.42410205" y="47.2153704">3</tspan>
+											</text>
+										</g><!-- A313_End -->
+										<!-- A314 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover314&quot;); return false;"  onmouseout="infoOut(&quot;hover314&quot;); return false;" onclick="infoChange(&quot;map314&quot;); return false;" class="areaMap mapA314">
+											<g class="Room_A314" sketch:type="MSLayerGroup" transform="translate(650.327537, 244.767597)">
+												<rect class="Rectangle-13" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup" x="0.294148061" y="0" width="50.8771736" height="72.517684"></rect>
+												<text class="A314" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="10.3229048" y="43.7074698">A314</tspan>
+												</text>
+											</g>
+										</a><!-- A314_End -->
+										<!-- A315 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover315&quot;); return false;"  onmouseout="infoOut(&quot;hover315&quot;); return false;" onclick="infoChange(&quot;map315&quot;); return false;" class="areaMap mapA315">
+											<g class="Room_A315" sketch:type="MSLayerGroup" transform="translate(701.204711, 244.767597)">
+												<rect class="Rectangle-15" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup" x="0.294148061" y="0" width="50.8771736" height="72.517684"></rect>
+												<text class="A315" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="10.3229048" y="43.7074698">A315</tspan>
+												</text>
+											</g>
+										</a><!-- A315_End -->
+										<!-- A351 -->
+										<g class="A351" sketch:type="MSLayerGroup" transform="translate(44.225556, 128.091422)">
+											<rect class="Rectangle-17" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0.0483796153" y="0" width="57.8820018" height="50.8045908"></rect>
+											<text class="A351" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="13.2723061" y="31.1537041">A351</tspan>
+											</text>
+										</g>
+										<!-- A352 -->
+										<g class="A352" sketch:type="MSLayerGroup" transform="translate(173.261866, 128.091422)">
+											<rect class="Rectangle-18" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0.0554349759" y="0" width="40.4988338" height="50.8045908"></rect>
+											<text class="A352" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="4.82049471" y="28.4459028">A352</tspan>
+											</text>
+										</g>
+										<!-- A353 -->
+										<g class="A353" sketch:type="MSLayerGroup" transform="translate(213.816135, 128.091422)">
+											<rect class="Rectangle-30" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0" y="0" width="54.5639253" height="50.8045908"></rect>
+											<text class="A353" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="11.3503157" y="28.4459028">A353</tspan>
+											</text>
+										</g>
+										<!-- A354 -->
+										<g class="Room_A354" sketch:type="MSLayerGroup" transform="translate(268.380060, 128.091422)">
+											<rect class="Rectangle-33" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0.0197056299" y="0" width="16.2020019" height="50.8045908"></rect>
+											<text class="A354" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="9.88278057" font-weight="526" line-spacing="6" fill="#5C5C5C">
+												<tspan x="4.42410205" y="9.98448137">A</tspan>
+												<tspan x="4.42410205" y="20.9844814">3</tspan>
+												<tspan x="4.42410205" y="31.9844814">5</tspan>
+												<tspan x="4.42410205" y="42.9844814">4</tspan>
+											</text>
+										</g>
+										<!-- A355 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover355&quot;); return false;"  onmouseout="infoOut(&quot;hover355&quot;); return false;" onclick="infoChange(&quot;map355&quot;); return false;" class="areaMap mapA355">
+											<g class="Room_A355" sketch:type="MSLayerGroup" transform="translate(283.864417, 128.091422)">
+												<rect class="Rectangle-31" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup" x="0.953197183" y="0" width="52.8733777" height="50.8045908"></rect>
+												<text class="A355" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="9.62360094" y="28.4459028">A355</tspan>
+												</text>
+											</g>
+										</a>
+										<!-- A356 -->
+										<g class="Room_A356" sketch:type="MSLayerGroup" transform="translate(337.690992, 128.091422)">
+											<rect class="Rectangle-20" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0" y="0" width="24.3648068" height="50.8045908"></rect>
+											<text class="A356" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" line-spacing="6" fill="#5C5C5C">
+												<tspan x="8.8482041" y="10.4769136">A</tspan>
+												<tspan x="8.8482041" y="21.4769136">3</tspan>
+												<tspan x="8.8482041" y="32.4769136">5</tspan>
+												<tspan x="8.8482041" y="43.4769136">6</tspan>
+											</text>
+										</g>
+										<!-- A357 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover357&quot;); return false;"  onmouseout="infoOut(&quot;hover357&quot;); return false;" onclick="infoChange(&quot;map357&quot;); return false;" class="areaMap mapA357">
+											<g class="Room_A357" sketch:type="MSLayerGroup" transform="translate(398.153720, 128.091422)">
+												<rect class="Rectangle-21" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup" x="0.0483796153" y="0" width="64.1011001" height="50.8045908"></rect>
+												<text class="A357" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="16.9590579" y="28.1998769">A357</tspan>
+												</text>
+											</g>
+										</a>
+										<!-- A358 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover358&quot;); return false;"  onmouseout="infoOut(&quot;hover358&quot;); return false;" onclick="infoChange(&quot;map358&quot;); return false;" class="areaMap mapA358">
+											<g class="Room_A358" sketch:type="MSLayerGroup" transform="translate(462.303200, 128.091422)">
+												<rect class="Rectangle-21" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup" x="0" y="0" width="63.4121294" height="50.8045908"></rect>
+												<text class="A358" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="16.2217075" y="28.1998769">A358</tspan>
+												</text>
+											</g>
+										</a>
+										<!-- A359 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover359&quot;); return false;"  onmouseout="infoOut(&quot;hover359&quot;); return false;" onclick="infoChange(&quot;map359&quot;); return false;" class="areaMap mapA359">
+											<g class="Room_A359" sketch:type="MSLayerGroup" transform="translate(525.715329, 128.091422)">
+												<rect class="Rectangle-22" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup" x="0" y="0" width="50.5085209" height="50.8045908"></rect>
+												<text class="A359" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="9.58555444" y="28.1998769">A359</tspan>
+												</text>
+											</g>
+										</a>
+										<!-- A360 -->
+										<a xlink:href="javascript:void(0)" onmouseover="infoHover(&quot;hover360&quot;); return false;"  onmouseout="infoOut(&quot;hover360&quot;); return false;" onclick="infoChange(&quot;map360&quot;); return false;" class="areaMap mapA360">
+											<g class="Room_A360" sketch:type="MSLayerGroup" transform="translate(651.064888, 128.091422)">
+												<rect class="Rectangle-24" stroke="#979797" fill="#FFE4B9" sketch:type="MSShapeGroup" x="0.368675171" y="0" width="50.3610283" height="50.8045908"></rect>
+												<text class="A360" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+													<tspan x="10.0648322" y="28.4459028">A360</tspan>
+												</text>
+											</g>
+										</a>
+										<!-- A361 -->
+										<g class="Room_A361" sketch:type="MSLayerGroup" transform="translate(701.942061, 128.091422)">
+											<rect class="Rectangle-34" stroke="#979797" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0.0618098275" y="0" width="50.3610283" height="50.8045908"></rect>
+											<text class="A361" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6" font-size="10.3124667" font-weight="526" fill="#5C5C5C">
+												<tspan x="9.75796682" y="28.4459028">A361</tspan>
+											</text>
+										</g>
+										
+										<g class="車いす用トイレ" sketch:type="MSLayerGroup" transform="translate(154.828108, 157.629694)">
+											<rect class="Rectangle-29" fill="#007fff" stroke="#979797" stroke-width="0.2" sketch:type="MSShapeGroup" x="0" y="0" width="18.4337585" height="17.7229633"></rect>
+											<image x="-1.5px" y="-2px" width="22px" height="22px" xlink:href="img/wheelchair.png"></image>
+										</g>
+										<text class="A棟-3F" sketch:type="MSTextLayer" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN" font-size="53.0355429" font-weight="500" fill="#71CDF2">
+											<tspan x="25.9200001" y="86.9500008">A棟 3F</tspan>
+										</text>
+									</g>
+								</g>
+
+								<!-- compass -->
+								<g class="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+									<g class="2FMap-Copy-3F" sketch:type="MSArtboardGroup">
+										<ellipse class="Oval-1" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup" cx="723.742281" cy="80.0470132" rx="25.1773938" ry="25.1773938"></ellipse>
+										<g class="Triangle-1-+-Triangle-1-Copy" sketch:type="MSLayerGroup" transform="translate(726.369517, 80.200204) rotate(86.000000) translate(-726.369517, -80.200204) translate(710.869517, 57.700204)" fill="#979797" opacity="0.989622201">
+											<polygon class="Triangle-1" sketch:type="MSShapeGroup" points="14.6915519 0.454786041 14.6915518 40.4854613 0.0427905321 44.4905133 "></polygon>
+											<polygon class="Triangle-1-Copy-2" sketch:type="MSShapeGroup" points="16.056348 0.478283189 16.056348 40.491472 30.6424743 44.510689 "></polygon>
+										</g>
+										<text class="N" sketch:type="MSTextLayer" transform="translate(758.742281, 77.547013) rotate(-4.000000) translate(-758.742281, -77.547013) " font-family="Arial" font-size="13" font-weight="normal" fill="#979797">
+											<tspan x="753.742281" y="82.0470132">N</tspan>
+										</text>
+									</g>
+								</g>
+								<!-- compass_End -->
+
+								<!-- direction -->
+								<g class="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+									<g class="2FMap-Copy-3F" sketch:type="MSArtboardGroup">
+										<g class="キャンパスグリーン-+-Triangle-5" sketch:type="MSLayerGroup" transform="translate(101.738883, 336.175646)">
+											<text class="キャンパスグリーン" sketch:type="MSTextLayer" font-family="Hiragino Kaku Gothic ProN" font-size="13" font-weight="313" fill="#979797">
+												<tspan x="14" y="11">キャンパスグリーン</tspan>
+											</text>
+											<polygon class="Triangle-5" stroke="#9B9B9B" fill="#9B9B9B" sketch:type="MSShapeGroup" transform="translate(8.631116, 19.000028) rotate(39.000000) translate(-8.631116, -19.000028) " points="8.63111601 24.2750281 15.131116 13.7250279 2.13111601 13.7250279 "></polygon>
+										</g>
+										<g class="本館-+-Triangle-5-Copy" sketch:type="MSLayerGroup" transform="translate(365.738883, 333.175646)">
+											<text class="本館" sketch:type="MSTextLayer" font-family="Hiragino Kaku Gothic ProN" font-size="13" font-weight="313" fill="#979797">
+												<tspan x="0" y="11">本館</tspan>
+											</text>
+											<polygon class="Triangle-5-Copy" stroke="#9B9B9B" fill="#9B9B9B" sketch:type="MSShapeGroup" points="13.5 29.5500002 20 19 7 19 "></polygon>
+										</g>
+										<g class="B・C棟-+-Triangle-5-Copy-2" sketch:type="MSLayerGroup" transform="translate(604.738883, 342.175646)">
+											<text class="B・C棟" sketch:type="MSTextLayer" font-family="Hiragino Kaku Gothic ProN" font-size="13" font-weight="313" fill="#979797">
+												<tspan x="0" y="11">B・C棟</tspan>
+											</text>
+											<polygon class="Triangle-5-Copy-2" stroke="#9B9B9B" fill="#9B9B9B" sketch:type="MSShapeGroup" points="55 11.9255357 64.0386411 6.48841837 55 0.607541372 "></polygon>
+										</g>
+									</g>
+								</g>
+								<!-- direction_End -->
+							</svg>
+						</div><!-- map -->
+						<!-- 3FMap_End-->
+
+						<div class="roomEventDetail">
+							<div id="A303detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_ueLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>知的ネットワーク研究室</span></div>
+									<div class="lab2"><span>無線ネットワークで三段跳びすれば<br />どこまでいける？</span></div>
+									<div class="lab3"><span>当研究室では、多数の機器が個々に動作して自動的に<br />ネットワークを構成する手法について研究しています。<br />デモでは、Raspberry Piという小型のコンピュータを使ってそのシステムを実演します。</span></div>
+								</div>
+							</div>
+							<div id="A305detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_shimiLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>セキュリティシステム研究室</span></div>
+									<div class="lab2"><span>あなたの暮らしを守るセキュリティ技術</span></div>
+									<div class="lab3"><span>不正アプリ、通信の盗聴、パスワードの強度判定や<br />暗号化の手法を、その実演と共に学ぶことができます。セキュリティについて興味のある方や質問したいことがあるという方は是非来てください。</span></div>
+								</div>
+							</div>
+							<div id="A306detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_shigeLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>繁桝研究室</span></div>
+									<div class="lab2"><span>3D知覚とバーチャルリアリティ体験</span></div>
+									<div class="lab3"><span>今話題のヘッドマウントディスプレイなどの<br />バーチャルリアリティ技術や、さまざまな視覚の<br />不思議な現象をぜひ体験しに来てください!</span></div>
+								</div>
+							</div>
+							<div id="A307detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_menLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>教育情報工学研究室</span></div>
+									<div class="lab2"><span>ICTでこれからの授業が変わる</span></div>
+									<div class="lab3"><span>これからの授業についてポスターでの説明や<br />電子黒板を用いた授業支援の体験を行います。</span></div>
+								</div>
+							</div>
+							<div id="A308detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_shinoLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>視覚・感性統合重点研究室</span></div>
+									<div class="lab2"><span>視覚の不思議 〜体験型エイムズの部屋 など〜</span></div>
+									<div class="lab3"><span>体験型エイムズの部屋など<br />視覚の不思議についていろいろ紹介します。<br />ぜひ立ち寄って見て下さい！</span></div>
+								</div>
+							</div>
+							<div id="A309detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_yoshiLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>知能情報学研究室</span></div>
+									<div class="lab2"><span>連想するコンピュータ 〜類似画像検索〜</span></div>
+									<div class="lab3"><span>吉田研究室では、今流行りの「AI」について研究を<br />しています。ファジィ推論、ニューラルネットワーク、<br />遺伝的アルゴリズムについての研究を行っています。</span></div>
+								</div>
+							</div>
+							<div id="A310detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_matsuLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>高度プログラミング研究室</span></div>
+									<div class="lab2"><span>ゲームプログラミングの研究課題<br />〜コンピュータ大富豪〜</span></div>
+									<div class="lab3"><span>大富豪(大貧民)というトランプゲームを遊んだことが<br />あるでしょう。"大富豪のルールしか教えていない"<br />コンピュータプログラムがどれだけ強いプレイヤ<br />になれるのか、実際に対戦してみてください。</span></div>
+								</div>
+							</div>
+							<div id="A312detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_iwaLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>コンピュータ構成学研究室</span></div>
+									<div class="lab2"><span>超高速省エネコンピュータチップの新技術</span></div>
+									<div class="lab3"><span>「超高速省エネコンピュータチップの新技術」の紹介<br />省電力IoTシステムのデモ(くまモンの検出)<br />学部生用FPGA回路実習のデモ<br />(「ブラックジャック」と「あっち向いてホイ」)</span></div>
+								</div>
+							</div>
+							<div id="A314detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_hamaLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>ワイヤレスネットワーク研究室</span></div>
+									<div class="lab2"><span>筋トレTeleコミュニケーション</span></div>
+									<div class="lab3"><span>私たちは次世代のワイヤレス通信技術の研究を<br />行っています。毎日筋トレのようなある種の<br />トレーニングにより、従来にない高品質な<br />通信を実現できることがわかってきています。</span></div>
+								</div>
+							</div>
+							<div id="A315detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_renLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>HEC研究室</span></div>
+									<div class="lab2"><span>ネクストジェネレーション<br />〜インターフェース界に現れた風雲児〜</span></div>
+									<div class="lab3"><span>任研究室では主にインターフェースに関する研究<br />を行っています。詳しく説明を聞きたい方は是非<br />任研究室(A315)にお越しください。</span></div>
+								</div>
+							</div>
+							<div id="A355detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_takaLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>ソフトウェア検証・解析学研究室</span></div>
+									<div class="lab2"><span>さわってみようプログラミング</span></div>
+									<div class="lab3"><span>コンピュータを動かすじゅもん＝「プログラム」<br />を作ってもらいます。基本のじゅもんをくっつけて<br />いくだけなので簡単です！その他、コンピュータに<br />パズルを解かせる実演やその応用も紹介します。</span></div>
+								</div>
+							</div>
+							<div id="A357detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_fukuLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>ネットワーク信号処理研究室</span></div>
+									<div class="lab2"><span>ICTで災害にそなえよう</span></div>
+									<div class="lab3"><span>災害時に、個人情報を守る仕組みと<br />効率的に医療行為を行うための訓練システム<br />の2つを体験することができます。</span></div>
+								</div>
+							</div>
+							<div id="A358detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_shikiLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>コミュニケーション＆<br />コラボレーション研究室</span></div>
+									<div class="lab2"><span>人にやさしい未来のコミュニケーション支援</span></div>
+									<div class="lab3"><span>情報通信技術を使って、ビデオ通信、医療支援や大規模情報システムでの業務支援などの研究を行っています。<br />興味のある方は是非遊びに来てください。</span></div>
+								</div>
+							</div>
+							<div id="A359detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_yokoLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>分散処理OS研究室</span></div>
+									<div class="lab2"><span>雲の中のコンピュータ</span></div>
+									<div class="lab3"><span>クラウド環境では、パソコンを自分で準備するのではなく、インターネットの中から借りることができます。<br />分散処理OS研究室では、研究室のクラウド環境から<br />パソコンを借りる体験ができる展示を行っています。</span></div>
+								</div>
+							</div>
+							<div id="A360detail" class="roomContents">
+								<div class="mapLabPhoto"><img src="img/fm_kuriLab.jpg"></div>
+								<div class="mapLabRight">
+									<div class="lab1"><span>画像情報処理研究室</span></div>
+									<div class="lab2"><span>画像処理技術が支えるメディアアート</span></div>
+									<div class="lab3"><span>さまざまなインタラクティブアートに画像処理技術が<br />使われています。当研究室では画像処理技術を用いた<br />メディアアートを体験することができます。</span></div>
+								</div>
+							</div>
+						</div><!-- roomEventDetail -->
+
+						<div class="areaBox">
+							<div class="areaTable">
+								<div class="leftTable">
+									<div class="table">
+										<div class="row list303" onmouseover="infoHover(&quot;hover303&quot;); return false;" onmouseout="infoOut(&quot;hover303&quot;); return false;" onclick="infoChange(&quot;map303&quot;); return false;">
+											<div class="tableRoomList">A303/A304</div>
+											<div>知的ネットワーク研究室(植田研)</div>
+										</div>
+										<div class="row list305" onmouseover="infoHover(&quot;hover305&quot;); return false;" onmouseout="infoOut(&quot;hover305&quot;); return false;" onclick="infoChange(&quot;map305&quot;); return false;">
+											<div class="tableRoomList">A305</div>
+											<div>セキュリティシステム研究室(清水研)</div>
+										</div>
+										<div class="row list306" onmouseover="infoHover(&quot;hover306&quot;); return false;" onmouseout="infoOut(&quot;hover306&quot;); return false;" onclick="infoChange(&quot;map306&quot;); return false;">
+											<div class="tableRoomList">A306</div>
+											<div>知覚認知脳情報研究室(繁桝研)</div>
+										</div>
+										<div class="row list307" onmouseover="infoHover(&quot;hover307&quot;); return false;" onmouseout="infoOut(&quot;hover307&quot;); return false;" onclick="infoChange(&quot;map307&quot;); return false;">
+											<div class="tableRoomList">A307</div>
+											<div>教育情報工学研究室(妻鳥研)</div>
+										</div>
+										<div class="row list308" onmouseover="infoHover(&quot;hover308&quot;); return false;" onmouseout="infoOut(&quot;hover308&quot;); return false;" onclick="infoChange(&quot;map308&quot;); return false;">
+											<div class="tableRoomList">A308</div>
+											<div>視覚・感性統合重点研究室(篠森研)</div>
+										</div>
+										<div class="row list309" onmouseover="infoHover(&quot;hover309&quot;); return false;" onmouseout="infoOut(&quot;hover309&quot;); return false;" onclick="infoChange(&quot;map309&quot;); return false;">
+											<div class="tableRoomList">A309</div>
+											<div>知能情報学研究室(吉田研)</div>
+										</div>
+										<div class="row list310" onmouseover="infoHover(&quot;hover310&quot;); return false;" onmouseout="infoOut(&quot;hover310&quot;); return false;" onclick="infoChange(&quot;map310&quot;); return false;">
+											<div class="tableRoomList">A310/A311</div>
+											<div>高度プログラミング研究室(松崎研)</div>
+										</div>
+										<div class="row list312" onmouseover="infoHover(&quot;hover312&quot;); return false;" onmouseout="infoOut(&quot;hover312&quot;); return false;" onclick="infoChange(&quot;map312&quot;); return false;">
+											<div class="tableRoomList">A312</div>
+											<div>コンピュータ構成学研究室(岩田研)</div>
+										</div>
+										<div class="row list314" onmouseover="infoHover(&quot;hover314&quot;); return false;" onmouseout="infoOut(&quot;hover314&quot;); return false;" onclick="infoChange(&quot;map314&quot;); return false;">
+											<div class="tableRoomList">A314</div>
+											<div>ワイヤレスネットワーク研究室(濵村研)</div>
+										</div>
+										<div class="row list315" onmouseover="infoHover(&quot;hover315&quot;); return false;" onmouseout="infoOut(&quot;hover315&quot;); return false;" onclick="infoChange(&quot;map315&quot;); return false;">
+											<div class="tableRoomList">A315</div>
+											<div>HEC研究室(任研)</div>
+										</div>
+									</div><!-- table -->
+								</div><!-- leftTable -->
+								<div class="rightTable">
+									<div class="table">
+										<div class="row list355" onmouseover="infoHover(&quot;hover355&quot;); return false;" onmouseout="infoOut(&quot;hover355&quot;); return false;" onclick="infoChange(&quot;map355&quot;); return false;">
+											<div class="tableRoomList">A355</div>
+											<div>ソフトウェア検証・<br />解析学研究室(高田研)</div>
+										</div>
+										<div class="row list357" onmouseover="infoHover(&quot;hover357&quot;); return false;" onmouseout="infoOut(&quot;hover357&quot;); return false;" onclick="infoChange(&quot;map357&quot;); return false;">
+											<div class="tableRoomList">A357</div>
+											<div>ネットワーク信号処理研究室<br />(福本研)</div>
+										</div>
+										<div class="row list358" onmouseover="infoHover(&quot;hover358&quot;); return false;" onmouseout="infoOut(&quot;hover358&quot;); return false;" onclick="infoChange(&quot;map358&quot;); return false;">
+											<div class="tableRoomList">A358</div>
+											<div>コミュニケーション&amp;<br />コラボレーション研究室(敷田研)</div>
+										</div>
+										<div class="row list359" onmouseover="infoHover(&quot;hover359&quot;); return false;" onmouseout="infoOut(&quot;hover359&quot;); return false;" onclick="infoChange(&quot;map359&quot;); return false;">
+											<div class="tableRoomList">A359</div>
+											<div>分散処理OS研究室(横山研)</div>
+										</div>
+										<div class="row list360" onmouseover="infoHover(&quot;hover360&quot;); return false;" onmouseout="infoOut(&quot;hover360&quot;); return false;" onclick="infoChange(&quot;map360&quot;); return false;">
+											<div class="tableRoomList">A360</div>
+											<div>画像情報工学研究室(栗原研)</div>
+										</div>
+									</div><!-- table -->
+								</div><!-- rightTable-->
+							</div><!-- areaTable -->
+						</div><!-- areaBox -->
+					</div><!-- A-3F -->	
+				</div><!-- mapDetail -->
+  	  </div><!-- contents bb-item -->
+		</div><!-- bb-bookblock-->	
+	</div><!--baseContents-->
+
+	<!--#include file="footer.html"-->
+
+		<script type="text/javascript">
+			var byebyeIEfunc = function() {
+				var byebyeIEtext = document.createTextNode("※Internet Explorerでは正常に動作しない可能性があります。");
+				var byebyeIEarea = document.createElement("span");
+				byebyeIEarea.appendChild(byebyeIEtext);
+				document.getElementById('byebyeIE').appendChild(byebyeIEarea);
+			}
+			var browser = window.navigator.userAgent.toLowerCase();
+			if (browser.indexOf('msie') != -1) {
+				byebyeIEfunc();
+			} else if (browser.indexOf('trident') != -1) {
+				byebyeIEfunc();
+			}
+
+		</script>
+	<script type="text/javascript" src="js/modernizr.custom.js"></script>
+	<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript" src="js/jquerypp.custom.js"></script>
+	<script type="text/javascript" src="js/jquery.bookblock.js"></script>
+	
+	<script type="text/javascript" src="js/oc_2017.js"></script>
+	<script type="text/javascript" src="js/oc_2017_floor_map.js"></script>
+
+</body>
+</html>

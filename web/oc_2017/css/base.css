@@ -1,0 +1,287 @@
+@charset "UTF-8";
+
+
+body,div,
+h1,h2,h3,h4,h5,h6,
+p,ul,ol,dl,dt,dd,li,
+table,th,td,
+form,select,option,input
+address,pre,strong,em,iframe,img {
+	border: 0px;
+	font-size: 100%;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+  border-top: 10px solid #3DB6EB;/*71cdf2*/
+	color: #333333;
+	font-family: 'HiraKakuPro-W3','Yu Gothic','MS UI Gothic';
+	line-height: 150%;
+}
+
+a {
+	color: #333333;
+  text-decoration: none;
+}
+
+#baseContents {
+  clear: both;
+  margin: 20px auto;
+  width: 960px;
+}
+
+#baseContents .pankuzu a:hover {
+	text-decoration: underline;
+}
+
+/* title */
+#baseContents .title {
+	color: #5c5c5c;
+  margin-top: 150px;
+  margin-bottom: 150px; /* 50px*/
+  text-align: center;
+  width: 100%;
+}
+
+#baseContents .title h2 {
+  font-weight: bold;
+}
+
+#baseContents .title h1 {
+  font-size: 350%;
+	margin-top: 20px;
+}
+
+#baseContents .title h1 span {
+  color: #3DB6EB; /*71cdf2*/
+}
+
+/* header */
+#header {
+  margin: 0px auto;
+	width: 960px;
+}
+
+#header .headContents {
+  height: 100px;
+}
+
+#header .headTitle {
+  float: left;
+  margin-top: 30px;
+}
+
+#header .headTitle img {
+	margin-top: 10px;
+	width: 200px;
+	height: 70px;
+}
+
+#header img.headLogo {
+	float:right;
+	margin: 25px 10px 0px;
+}
+
+#header .headInfobox {
+	clear: right;
+  float: right;
+	list-style-type: none;
+	margin-top: 10px;
+}
+
+#header .headInfobox li {
+  float: left;
+}
+
+#header .headInfobox li a {
+	border-radius: 5px;
+  display: block;
+	margin-left: 10px;
+	padding: 5px 20px;
+}
+#header .headInfobox li a .headAnd {
+  color: #71cdf2;
+  font-weight: bolder;
+  margin-right: 3px;
+}
+
+#header .headInfobox li:first-child a {
+	background-color: #71cdf2;
+	color: #ffffff;
+	margin: 0px;
+	padding: 6px 30px;
+}
+
+#header .headInfobox li:first-child a:hover {
+	box-shadow: 0px 5px 0px #23befb;
+	margin-top: -5px;
+}
+
+#header .headInfobox li:first-child a:active {
+	box-shadow: 0px 0px 10px #23befb inset;
+	margin-top: 0px;
+}
+
+#header .headInfobox li:first-child .headAnd {
+  color: #ffffff;
+}
+
+#header .headInfobox li a:hover > .headInfo {
+	text-decoration: underline;
+}
+
+#header .headInfobox li:last-child a {
+	padding-right: 10px;
+}
+
+
+/* menu */
+#header .headMenu{
+  clear: both;
+	margin-top: 40px;
+	text-align: center;
+	width: 100%;
+}
+
+#header .headMenu ul {
+	display: inline-block;
+  list-style-type: none;
+}
+
+#header .headMenu ul li {
+  border-left: 2px solid #cccccc;
+	float: left;
+}
+
+#header .headMenu ul li:last-child {
+  border-right: 2px solid #cccccc;
+}
+
+#header .headMenu ul li a {
+	align-content: center;
+  display: block;
+	font-size: 110%;
+  margin: 0px 6px;
+  padding: 10px 20px 2px;
+  text-align: center;
+	-moz-transition: .5s;
+	-webkit-transition: .5s;
+	-o-transition: .5s;
+	-ms-transition: .5s;
+	transition: .5s;
+}
+
+#header .headMenu ul li a:hover {
+  color: #71cdf2;
+}
+
+#header .headMenu ul li .serectA {
+  color: #6699cc;
+}
+
+#header .headMenu ul li a .headMenuBorder {
+	background-color: #ffffff;
+	border-radius: 10px;
+  height: 5px;
+  margin-top: 5px;
+	width: 100%;
+	-moz-transition: .5s;
+	-webkit-transition: .5s;
+	-o-transition: .5s;
+	-ms-transition: .5s;
+	transition: .5s;
+}
+
+#header .headMenu ul li a:hover > .headMenuBorder {
+  background-color: #71cdf2;
+}
+
+#header .headMenu ul li a .serectBorder {
+  background-color: #6699cc;
+}
+
+
+/* footer */
+#footerBack {
+  background: #71cdf2;
+	clear: both;
+	margin-top: 50px;
+	height: 170px;
+	width: 100%;
+}
+
+#footer {
+  margin: 0px auto;
+  text-align: center;
+	width: 960px;
+}
+
+#footer .footLogo {
+  float: left;
+	width: 20%;
+}
+
+#footer .footLogo img {
+	margin: 20px auto;
+	width: 100px;
+}
+
+#footer .footLogo p {
+	color: #ffffff;
+	margin-top: -10px;
+}
+
+#footer .footList {
+	margin: 0px auto;
+	text-align: center;
+	width: 60%;
+}
+
+#footer ul {
+	display: inline-block;
+	list-style-type: none;
+	margin: 50px 0px 15px -15px;
+}
+
+#footer ul li {
+  float: left;
+}
+
+#footer ul li a {
+  color: #ffffff;
+  display: block;
+	margin-left: 20px;
+}
+
+#footer ul li a:before {
+  content: url("../img/Triangle_footer.svg");
+}
+
+#footer ul li a:hover {
+  text-decoration: underline;
+}
+
+#footer .footList p {
+	border-top: 3px solid #ffffff;
+	color: #ffffff;
+	margin-top: 18px;
+  padding: 10px 0px;
+}
+
+#footer .footPageTop {
+	background-color: #3f9cc2;
+	float: right;
+	height: 170px;
+	width: 15%;
+}
+
+#footer .footPageTop img {
+	margin-top: 20px;
+}
+
+#footer .footPageTop p{
+	color: #ffffff;
+	margin-top: 10px;
+}

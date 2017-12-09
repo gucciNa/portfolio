@@ -1,0 +1,779 @@
+@charset "UTF-8";
+
+body {
+	font-family: 'Avenir', 'Arial', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', 'Meiryo', 'MS PGothic'; 
+}
+
+/*　mainImage　*/
+#baseContents .mainImage {
+  width: 960px;
+	margin-bottom: 30px;
+}
+
+#baseContents .oc2016_link {
+	width: 100%;
+	text-align: center;
+}
+#baseContents .oc2016_link img {
+	width: 80%;
+}
+
+#baseContents .oc2017_article_box {
+	margin: 30px auto;
+	text-align: center;
+}
+
+#baseContents .oc2017_article_box a{
+	background-color: #71cdf2;
+	border-radius: 10px;
+	color: #ffffff;
+	display: inline-block;
+	font-weight: bold;
+	font-size: 130%;
+	padding: 30px;
+	text-align: center;
+	width: 710px;
+}
+
+#baseContents .oc2017_article_box a:hover {
+	background-color: #4a90e2;
+	text-decoration: none;
+	transition: 0.5s;
+}
+
+#baseContents #byebyeIE {
+	color: #ff0000;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+/* menu(付箋) */
+#baseContents .menu {
+  height: 220px;
+  margin: 50px auto 0px;
+  width: 920px;
+}
+
+#baseContents .menu .outLine {
+  float: left;
+  height: 220px;
+  margin-right: 80px;
+  width: 170px;
+}
+
+#baseContents .menu input {
+  display: none;
+}
+
+#baseContents .menu .menuList {
+  height: 220px;
+  margin: 0 auto;
+  text-align: center;
+  width: 170px;
+}
+
+#baseContents .menu .menuList:hover {
+  cursor: pointer;
+}
+
+#baseContents .menu .labMenu .menuList {
+	background-color: #ff9900;
+	border-right: 5px solid #f77700;
+}
+
+#baseContents .menu .studyMenu .menuList {
+	background-color: #ffea00;
+	border-right: 5px solid #ffcc00;
+}
+
+#baseContents .menu .mapMenu .menuList {
+	background-color: #66ff33;
+	border-right: 5px solid #33cc00;
+}
+
+#baseContents .menu .menuList img {
+  height: 150px;
+	margin-top: 10px;
+  width: 150px;
+}
+
+#baseContents .menu .menuList h1 {
+  font-size: 1.7em;
+  margin-top: 10px;
+}
+
+#baseContents .labLabel{
+	background-color: #ff9900;
+	border-right: 5px solid #f77700;
+	height: 90px;
+	margin-left: 20px;
+	width: 170px;
+}
+
+#baseContents .studyLabel{
+	background-color: #ffea00;
+	border-right: 5px solid #ffcc00;
+	height: 90px;
+	margin-left: 270px;
+	width: 170px;
+}
+
+#baseContents .mapLabel{
+	background-color: #66ff33;
+	border-right: 5px solid #33cc00;
+	height: 90px;
+	margin-left: 520px;
+	width: 170px;
+}
+
+
+/* contents */
+#baseContents .contents {
+  clear: both;
+  width: 960px;
+}
+
+#baseContents .ocMainContents {
+  margin-top: 55px;
+}
+
+#baseContents .ocMainContents h1 {
+  font-size: 2.7em;
+	font-weight: bold;
+  margin: auto;
+  padding-bottom: 20px;
+  text-align: center;
+  width: 300px;
+}
+
+#baseContents .labContents h1 span {
+	background: linear-gradient(transparent 60%, #ffbf7f 60%);
+	padding: 0 10px;
+}
+#baseContents .studyContents h1 span {
+	background: linear-gradient(transparent 60%, #ffff7f 60%);
+	padding: 0 10px;
+}
+#baseContents .mapContents h1 span {
+	background: linear-gradient(transparent 60%, #bfff7f 60%);
+	padding: 0 10px;
+}
+
+#baseContents .ocMainContents p {
+  font-size: 1.4em;
+  margin: 50px auto 0px;
+  line-height: 1.6em;
+	text-align: center;
+  width: 650px;
+}
+
+#baseContents .ocMainContents p .attention {
+	color: #cc3333;
+}
+
+/* コンテンツ詳細 */
+#baseContents .detail {
+	clear: both;
+  margin: 70px auto;
+	position: relative;
+  width: 800px;
+}
+
+#baseContents .detail h4 {
+	font-size: 1.3em;
+	margin: 10px auto;
+	text-align: center;
+}
+
+/* detail内のtable */
+#baseContents .labDetail .table, 
+#baseContents .studyDetail .table {
+	border-radius: 10px;
+	display: table;
+	margin: 0 auto;
+	width: 760px;
+}
+
+#baseContents .labDetail .table .row, 
+#baseContents .studyDetail .table .row {
+	display: table-row;
+	text-align: center;
+}
+
+#baseContents .labDetail .table .row>div, 
+#baseContents .studyDetail .table .row>div {
+	display: table-cell;
+}
+
+#baseContents .table .row:nth-child(odd) {
+	background-color: #fcfcfc;
+}
+
+#baseContents .table .row:nth-child(even) {
+	background-color: #fefefe;
+}
+
+/* labDetail table */
+#baseContents .labDetail .table {
+	border: solid #ff8c00;
+	border-width: 10px 25px 60px;
+}
+
+#baseContents .labDetail .table .th {
+	background-color: #ff8c00;
+	color: #ffffff;
+	font-size: 1.3em;	
+}
+
+#baseContents .labDetail .table .row>div {
+	border-bottom: solid 1px #eeeeee;
+	padding: 15px 15px;
+}
+
+#baseContents .labDetail .table .program {
+	font-size: 1.2em;
+}
+
+/* studyDetail table */
+#baseContents .studyDetail .table {
+	border: solid #ffea00;
+	border-width: 10px 25px 60px;
+}
+
+#baseContents .studyDetail .table .th {
+	background-color: #ffea00;
+	color: #000000;
+	font-size: 1.5em;	
+}
+
+#baseContents .studyDetail .table .row>div {
+	font-size: 1.em;
+	padding: 15px 0;
+	vertical-align: middle;
+}
+
+#baseContents .studyDetail .table .row .study29th {
+	border-right: solid 5px #e3e3e3;
+}
+
+#baseContents .studyDetail .table .timeTable {
+	font-size: 1.2em;
+	width: 80px;
+}
+
+#baseContents .studyDetail .table .start13 {
+	background: #dedede;
+}
+
+#baseContents .studyDetail .table .start11,
+#baseContents .studyDetail .table .start14 {
+	background: #d9d9d9;
+
+}
+#baseContents .studyDetail .table .studyProgram {
+	height: 50px;
+	padding-top: 30px;
+}
+
+#baseContents .studyDetail .table .studyTeacher {
+	height: 50px;
+}
+
+#baseContents .studyDetail .table .studyProgram span {
+	display: table-cell;
+	font-size: 1.1em;
+	height: 50px;
+	vertical-align: middle;
+	width: 330px;
+}
+
+#baseContents .studyDetail .table .studyTeacher span {
+	display: table-cell;
+	height: 50px;
+	vertical-align: middle;
+	width: 330px;
+}
+
+/* floor map table*/
+#baseContents .mapDetail .areaBox {
+	margin: 0 auto;
+	text-align: left;
+	width: 750px;
+}
+
+#baseContents .mapDetail .areaBox .leftTable {
+	float: left;
+	margin: 0 auto;
+	width: 422px;
+}
+
+#baseContents .mapDetail .areaBox .rightTable {
+	float: right;
+	margin: 0 auto;
+	width: 322px;
+}
+
+#baseContents .mapDetail .table {
+	border: solid 5px #e7e7e7;
+	border-radius: 1em;
+	display: table;
+	margin: 0 auto;
+	overflow: hidden;
+	width: 98%;
+}
+
+#baseContents .mapDetail .table .row {
+	display: table-row;
+	width: 100%;
+}
+
+#baseContents .mapDetail .table .row>div {
+  cursor: pointer;
+	display: table-cell;
+	padding: 8px 10px;
+}
+
+/* lab, study下の空きスペース */
+/* 写真などのテンプレ */
+#baseContents .detail .imgBox {
+	background: #ffffff;
+	border: solid 3px #808080;
+	position: absolute;
+	text-align: center;
+	font-size: 2em;
+	/*width,height: (margin+border)*2*/
+}
+
+#baseContents .detail .imgBox img {
+	border: solid 3px #808080;
+}
+
+#baseContents .detail .bigImgBox {
+	height: 366px;
+	width: 516px;
+}
+
+#baseContents .detail .bigImgBoxContainText {
+	height: 426px;
+	width: 516px;
+}
+
+#baseContents .detail .bigImgBoxContainText2 {
+	height: 476px;
+	width: 516px;
+}
+#baseContents .detail .bigImgBoxContainText2 p {
+	margin: 30px auto;
+}
+
+#baseContents .detail .bigImgBoxVertical {
+	height: 516px;
+	width: 366px;
+}
+
+#baseContents .detail .bigImgBox img, 
+#baseContents .detail .bigImgBoxContainText img{ 
+	height: 300px;
+	margin: 30px;
+	width: 450px;
+}
+
+#baseContents .detail .bigImgBoxContainText2 img {
+	height: 300px;
+	margin: 0 30px;
+	width: 450px;
+}
+
+#baseContents .detail .bigImgBoxVertical img {
+	height: 450px;
+	margin: 30px;
+	width: 300px;
+}
+
+#baseContents .detail .smallImgBox {
+	height: 246px;
+	width: 346px;
+}
+
+#baseContents .detail .smallImgBox img {
+	height: 200px;
+	margin: 20px;
+	width: 300px;
+}
+
+#baseContents .detail .maskingTape {
+	height: 50px;
+	position: absolute;
+	width: 120px;
+	z-index: 50;
+}
+
+/* labDetailの下部 */
+#baseContents .detail .labImgBoxes {
+	height: 1000px;
+	position: relative;
+	width: 960px;
+}
+
+#baseContents .detail .labImgBox1 {
+	left: -20px;
+	top: 70px;
+	transform: rotate(-3deg);
+}
+
+#baseContents .detail .labImgBox2 {
+	left: 300px;
+	top: 270px;
+	transform: rotate(7deg);
+	z-index: 10;
+}
+
+#baseContents .detail .labImgBox3 {
+	left; 0px;
+	top: 620px;
+}
+
+#baseContents .detail .labImgBoxes .labMaskingTape1 {
+	background: rgba(255, 144, 0, 0.9);
+	left: 90px;
+	top: 40px;
+	transform: rotate(-3deg);
+}
+
+#baseContents .detail .labImgBoxes .labMaskingTape2 {
+	background: rgba(255, 144, 0, 0.9);
+	left: 530px;
+	top: 240px;
+	transform: rotate(7deg);
+}
+
+#baseContents .detail .labImgBoxes .labMaskingTape3 {
+	background: rgba(255, 144, 0, 0.9);
+	left: -40px;
+	top: 600px;
+	transform: rotate(-35deg);
+}
+
+#baseContents .detail .BIdeskwork {
+	height: 200px;
+	left: 110px;
+	position: absolute;
+	top: 420px;
+	width: 200px;
+}
+
+/* studyDetailの下部 */
+#baseContents .detail .studyImgBoxes {
+	height: 1500px;
+	position: relative;
+	width: 960px;
+}
+
+#baseContents .detail .studyImgBox1 {
+	left: -20px;
+	top: 100px;
+	z-index: 30;
+}
+
+#baseContents .detail .studyImgBox2 {
+	left: 320px;
+	top: 500px;
+	transform: rotate(3deg);
+}
+
+#baseContents .detail .studyImgBox3 {
+	left: 0px;
+	top: 950px;
+}
+
+#baseContents .detail .studyImgBox4 {
+	left: 420px;
+	top: 950px;
+	transform: rotate(2deg);
+}
+
+#baseContents .detail .studyImgBox5 {
+	left: 415px;
+	top: 1220px;
+}
+
+#baseContents .detail .studyMaskingTape1_1 {
+	background: rgba(255, 234, 0, 0.9);
+	left: -50px;
+	top: 70px;
+	transform: rotate(-15deg);
+}
+
+#baseContents .detail .studyMaskingTape1_2 {
+	background: rgba(255, 234, 0, 0.9);
+	left: 420px;
+	top: 70px;
+	transform: rotate(15deg);
+}
+
+#baseContents .detail .studyMaskingTape2 {
+	background: rgba(255, 234, 0, 0.9);
+	left: 530px;
+	top: 470px;
+	transform: rotate(3deg);
+}
+
+#baseContents .detail .studyMaskingTape3 {
+	background: rgba(255, 234, 0, 0.9);
+	left: 100px;
+	top: 920px;
+	transform: rotate(-2deg);
+}
+
+#baseContents .detail .studyMaskingTape4 {
+	background: rgba(255, 234, 0, 0.9);
+	left: 530px;
+	top: 920px;
+	transform: rotate(2deg);
+}
+
+#baseContents .detail .studyMaskingTape5 {
+	background: rgba(255, 234, 0, 0.9);
+	left: 530px;
+	top: 1185px;
+	transform: rotate(-4deg);
+}
+
+
+/* floor map */
+#baseContents .mapContents .floorLink {
+	text-align: center;
+}
+
+#baseContents .mapContents .linkContents {
+	display: inline-block;
+	font-size: 1.4em;
+	margin: 60px 30px 0 30px;
+  text-decoration: underline;
+}
+
+#baseContents .linkContents img{
+  width: 10px;
+}
+
+#baseContents .mainContents   {
+	text-align: center;
+	width: 960px;
+}
+
+#baseContents ul li:hover {
+	cursor: pointer;
+}
+
+#baseContents .map a path,
+#baseContents .map a rect,
+#baseContents .map a polygon,
+#baseContents .map a use {
+	-webkit-transition: all 0.6s;
+	-moz-transition: all 0.6s;
+	-ms-transition: all 0.6s;
+	-o-transition: all 0.6s;
+	transition: all 0.6s;
+}
+
+#baseContents .map a:hover path,
+#baseContents .map a:hover rect,
+#baseContents .map a:hover polygon,
+#baseContents .map a:hover use {
+	fill: #f5a623;
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	transition: all 0.2s;
+}
+
+#baseContents .map a:active path,
+#baseContents .map a:active rect,
+#baseContents .map a:active polygon,
+#baseContents .map a:active use {
+	fill: #ee6557;
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	transition: all 0.2s;
+}
+
+#baseContents .mapDetail input {
+	display: none;
+}
+
+#baseContents .mapDetail input ~ svg a path,
+#baseContents .mapDetail input ~ svg a rect,
+#baseContents .mapDetail input ~ svg a polygon,
+#baseContents .mapDetail input ~ svg a use {
+	fill: #16A6B6;
+}
+
+/* (map)ホバー時の処理 */
+#baseContents .mapDetail #hover105:checked ~ #A-1F .map .mapA105 rect,
+#baseContents .mapDetail #hover106:checked ~ #A-1F .map .mapA106 polygon,
+#baseContents .mapDetail #hover107:checked ~ #A-1F .map .mapA107 rect,
+#baseContents .mapDetail #hover155:checked ~ #A-1F .map .mapA155 polygon,
+#baseContents .mapDetail #hover210:checked ~ #A-2F .map .mapA210 rect,
+#baseContents .mapDetail #hover303:checked ~ #A-3F .map .mapA303 path,
+#baseContents .mapDetail #hover305:checked ~ #A-3F .map .mapA305 rect,
+#baseContents .mapDetail #hover306:checked ~ #A-3F .map .mapA306 rect,
+#baseContents .mapDetail #hover307:checked ~ #A-3F .map .mapA307 rect,
+#baseContents .mapDetail #hover308:checked ~ #A-3F .map .mapA308 rect,
+#baseContents .mapDetail #hover309:checked ~ #A-3F .map .mapA309 rect,
+#baseContents .mapDetail #hover310:checked ~ #A-3F .map .mapA310 rect,
+#baseContents .mapDetail #hover312:checked ~ #A-3F .map .mapA312 path,
+#baseContents .mapDetail #hover314:checked ~ #A-3F .map .mapA314 rect,
+#baseContents .mapDetail #hover315:checked ~ #A-3F .map .mapA315 rect,
+#baseContents .mapDetail #hover355:checked ~ #A-3F .map .mapA355 rect,
+#baseContents .mapDetail #hover357:checked ~ #A-3F .map .mapA357 rect,
+#baseContents .mapDetail #hover358:checked ~ #A-3F .map .mapA358 rect,
+#baseContents .mapDetail #hover359:checked ~ #A-3F .map .mapA359 rect,
+#baseContents .mapDetail #hover360:checked ~ #A-3F .map .mapA360 rect
+{
+	fill: #f5a623;
+}
+
+/* (map)クリック時の処理 */
+#baseContents .mapDetail #map105:checked ~ #A-1F .map .mapA105 rect,
+#baseContents .mapDetail #map106:checked ~ #A-1F .map .mapA106 polygon,
+#baseContents .mapDetail #map107:checked ~ #A-1F .map .mapA107 rect,
+#baseContents .mapDetail #map155:checked ~ #A-1F .map .mapA155 polygon,
+#baseContents .mapDetail #map210:checked ~ #A-2F .map .mapA210 rect,
+#baseContents .mapDetail #map303:checked ~ #A-3F .map .mapA303 path,
+#baseContents .mapDetail #map305:checked ~ #A-3F .map .mapA305 rect,
+#baseContents .mapDetail #map306:checked ~ #A-3F .map .mapA306 rect,
+#baseContents .mapDetail #map307:checked ~ #A-3F .map .mapA307 rect,
+#baseContents .mapDetail #map308:checked ~ #A-3F .map .mapA308 rect,
+#baseContents .mapDetail #map309:checked ~ #A-3F .map .mapA309 rect,
+#baseContents .mapDetail #map310:checked ~ #A-3F .map .mapA310 rect,
+#baseContents .mapDetail #map312:checked ~ #A-3F .map .mapA312 path,
+#baseContents .mapDetail #map314:checked ~ #A-3F .map .mapA314 rect,
+#baseContents .mapDetail #map315:checked ~ #A-3F .map .mapA315 rect,
+#baseContents .mapDetail #map355:checked ~ #A-3F .map .mapA355 rect,
+#baseContents .mapDetail #map357:checked ~ #A-3F .map .mapA357 rect,
+#baseContents .mapDetail #map358:checked ~ #A-3F .map .mapA358 rect,
+#baseContents .mapDetail #map359:checked ~ #A-3F .map .mapA359 rect,
+#baseContents .mapDetail #map360:checked ~ #A-3F .map .mapA360 rect
+{
+	fill: #FF8787;
+}
+
+/* (mapリスト)ホバー時の処理 */
+#baseContents .mapDetail #hover105:checked ~ #A-1F .list105,
+#baseContents .mapDetail #hover106:checked ~ #A-1F .list106,
+#baseContents .mapDetail #hover107:checked ~ #A-1F .list107,
+#baseContents .mapDetail #hover155:checked ~ #A-1F .list155,
+#baseContents .mapDetail #hover210:checked ~ #A-2F .list210,
+#baseContents .mapDetail #hover303:checked ~ #A-3F .list303,
+#baseContents .mapDetail #hover305:checked ~ #A-3F .list305,
+#baseContents .mapDetail #hover306:checked ~ #A-3F .list306,
+#baseContents .mapDetail #hover307:checked ~ #A-3F .list307,
+#baseContents .mapDetail #hover308:checked ~ #A-3F .list308,
+#baseContents .mapDetail #hover309:checked ~ #A-3F .list309,
+#baseContents .mapDetail #hover310:checked ~ #A-3F .list310,
+#baseContents .mapDetail #hover312:checked ~ #A-3F .list312,
+#baseContents .mapDetail #hover314:checked ~ #A-3F .list314,
+#baseContents .mapDetail #hover315:checked ~ #A-3F .list315,
+#baseContents .mapDetail #hover355:checked ~ #A-3F .list355,
+#baseContents .mapDetail #hover357:checked ~ #A-3F .list357,
+#baseContents .mapDetail #hover358:checked ~ #A-3F .list358,
+#baseContents .mapDetail #hover359:checked ~ #A-3F .list359,
+#baseContents .mapDetail #hover360:checked ~ #A-3F .list360
+{
+	color: #f5a623;
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	transition: all 0.2s;
+}
+
+/* (mapリスト)クリック時の処理 */
+#baseContents .mapDetail #map105:checked ~ #A-1F .list105,
+#baseContents .mapDetail #map106:checked ~ #A-1F .list106,
+#baseContents .mapDetail #map107:checked ~ #A-1F .list107,
+#baseContents .mapDetail #map155:checked ~ #A-1F .list155,
+#baseContents .mapDetail #map210:checked ~ #A-2F .list210,
+#baseContents .mapDetail #map303:checked ~ #A-3F .list303,
+#baseContents .mapDetail #map305:checked ~ #A-3F .list305,
+#baseContents .mapDetail #map306:checked ~ #A-3F .list306,
+#baseContents .mapDetail #map307:checked ~ #A-3F .list307,
+#baseContents .mapDetail #map308:checked ~ #A-3F .list308,
+#baseContents .mapDetail #map309:checked ~ #A-3F .list309,
+#baseContents .mapDetail #map310:checked ~ #A-3F .list310,
+#baseContents .mapDetail #map312:checked ~ #A-3F .list312,
+#baseContents .mapDetail #map314:checked ~ #A-3F .list314,
+#baseContents .mapDetail #map315:checked ~ #A-3F .list315,
+#baseContents .mapDetail #map355:checked ~ #A-3F .list355,
+#baseContents .mapDetail #map357:checked ~ #A-3F .list357,
+#baseContents .mapDetail #map358:checked ~ #A-3F .list358,
+#baseContents .mapDetail #map359:checked ~ #A-3F .list359,
+#baseContents .mapDetail #map360:checked ~ #A-3F .list360
+{
+	color: #FF8787;
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	transition: all 0.2s;
+}
+
+/* floor map roomContents */
+#baseContents .roomContents {
+	border: 25px solid #93ff93;
+	border-radius: 15px;
+	display: none;
+	height: 200px;
+	margin: 0 auto;
+	text-align: center;
+	width: 700px;
+}
+
+#baseContents .roomEventDetail .mapLabPhoto {
+	float: left;
+	height: 200px;
+	width: 300px;
+}
+
+#baseContents .roomEventDetail .mapLabPhoto img {
+	height: 200px;
+	width: 300px;
+}
+
+
+#baseContents .roomEventDetail .mapLabRight {
+	float: right;
+	height: 200px;
+	width: 400px;
+}
+
+#baseContents .roomEventDetail .mapLabRight .lab1 span,
+#baseContents .roomEventDetail .mapLabRight .lab2 span,
+#baseContents .roomEventDetail .mapLabRight .lab3 span {
+	background: #ffffff;
+	display: table-cell;
+	vertical-align: middle;
+	width: 400px;
+}
+
+#baseContents .roomEventDetail .mapLabRight .lab1 span {
+	border-bottom: dashed 2px #dddddd;
+	font-size: 1.6em;
+	font-weight: bold;
+	height: 48px;
+}
+
+#baseContents .roomEventDetail .mapLabRight .lab2 span {
+	border-bottom: dashed 2px #dddddd;
+	font-size: 1.1em;
+	font-weight: bold;
+	height: 48px;
+	text-decoration: underline;
+}
+
+#baseContents .roomEventDetail .mapLabRight .lab3 span {
+	height: 100px;
+}
