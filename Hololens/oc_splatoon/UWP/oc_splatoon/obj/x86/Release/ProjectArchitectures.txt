@@ -1,0 +1,4 @@
+C:\Users\krlab\Documents\oc_splatoon\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\krlab\Documents\oc_splatoon\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\krlab\Documents\oc_splatoon\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\krlab\Documents\oc_splatoon\UWP\oc_splatoon\oc_splatoon.csproj;x86

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oc_splatoon", "oc_splatoon.csproj", "{5E578BF2-AD61-1E01-795B-989AFE060EFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oc_splatoon.Editor", "oc_splatoon.Editor.csproj", "{F71286D1-D2E2-EDC4-F3CF-E5B456F19F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E578BF2-AD61-1E01-795B-989AFE060EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E578BF2-AD61-1E01-795B-989AFE060EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E578BF2-AD61-1E01-795B-989AFE060EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E578BF2-AD61-1E01-795B-989AFE060EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71286D1-D2E2-EDC4-F3CF-E5B456F19F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71286D1-D2E2-EDC4-F3CF-E5B456F19F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71286D1-D2E2-EDC4-F3CF-E5B456F19F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71286D1-D2E2-EDC4-F3CF-E5B456F19F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

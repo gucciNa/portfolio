@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>oc_splatoon</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\krlab\Documents\oc_splatoon\UWP\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\krlab\Documents\oc_splatoon\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    </PropertyGroup>
+</Project>
